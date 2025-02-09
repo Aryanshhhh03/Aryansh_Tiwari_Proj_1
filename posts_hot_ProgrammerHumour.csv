@@ -1,0 +1,798 @@
+S.No,Title,URL,Score,Created_At,Num_Comments,Top_Comments,Subreddit,Post_ID
+1,just some office humor,https://i.redd.it/01kan74fix951.jpg,808,2020-07-10 19:16:54,12,"wtf is an excel? i know incel = involutarily celibate, so excel = exvoluntarily celibate?|Another one is when you move countries and excel keeps changing decimals to use ""."" instead of "","".  Bloody nightmare|\*Office|Missing the third circle “me eating a fig”|not accurate|/u/repostsleuthbot|humour*  >:(|Oooof|even open office spreadsheet makes me made with it's numerical/symbolic assumptions.",ProgrammerHumour,hop7xp
+2,It's true.,https://i.redd.it/9mn2ak9ycx951.png,761,2020-07-10 06:00:48,12,"I'm a back end/scientific programmer. My boss asked me to make a massive UI project. I told him its going to so efficient! It is.|Yup lol I do that|help my cars always look like bootstrap|Too much angular|It still works. It's just really ugly|It's like an awesome thing to do backend and frontend but when backend developer does frontend. Sudden heart attack lol.|When Backend developer copy code from stackoverflow to make frontend|It’ll be so awesome when it’s finally done!!|I cannot|I've been very clear with people that I can make a functional front end, but if they want pretty they won't get it from me.",ProgrammerHumour,hoex7z
+3,Requirement for a Job,https://i.redd.it/21928yqxn7951.jpg,539,2020-07-06 15:35:59,22,"Minimum 12 years in anything seems like a heck of a requirement.|I once saw a posting that asked for 10 years of experience with Ruby on Rails. It was 2011, so Rails was only 7 years old at that point. I believe DHH himself applied for it as a joke and got rejected for not having enough experience.|[deleted]|In IT it's achievable, when you make overtime everyday :)|I once saw a job listing where the requirements were R, Python and JSON.|It's basically a way to stop the youngsters applying. Yet they failed to check the age of Kubernetes. What was the job title, I'm guessing a senior position?|Lol. This is hilarious!|""Only 11 years experience?  Get outta here, we need professionals.""|When I was getting ready to graduate with my degree, I was looking for a job. As a CompSci major, I expected I'd get a programming job.
+
+One of the job postings wanted 10 years experience with Java. This was in 1999, when Java was only about 4 years old. I emailed them asking about that requirement. Their response indicated it was for a ""senior developer"" position and they required a minimum of 10 years experience with a language before they would consider anyone as senior developer in that language. I pointed them to a page indicating how long Java had been extant and explained that the creator of the language didn't have 10 years experience with it.
+
+Someone in HR had written it and, as usual, they knew nothing about the tech for which they were advertising.
+
+The job posting disappeared pretty quickly after that.|Just have two jobs for 6 years.  Taps head meme.|Employers on their way to add “Minimum 12 years of experience in” the second a new language or framework gets released
+Anyway did they add mojo to the requirements yet|***S O U N D S  G R E A T ! !***|Most of these job offers are stupider than a holey sock. If a person needs years to learn a tool/language, then by definition he must be really cognitively limited.",ProgrammerHumour,hm4x8n
+4,Every time I think I've written clean code on the first try.,https://v.redd.it/uq11o2jkp3951,234,2020-07-06 18:47:09,4,"1. Setup development environment that mimics server environment. Vagrant, Docker, \[insert container\]
+2. Unit test everything
+3. Test on every device possible
+4. Everything works perfectly
+5. Deploy
+
+... Watch the error logs explode. It happens every time. There's always some iterations after deployment that require seeing to.|lol|When Akira happens|Nothing about programming, nothing funny. Bad sub or bad sub name.
+
+I'm really confused now.",ProgrammerHumour,hm7gpv
+5,I am a...?,https://i.redd.it/w6ghof1xj7951.png,57,2020-07-06 15:14:21,8,"A backend developer doing frontend|... a spider watching youtube when you should be working?|A web developer :)|I was gonna say a Rust programmer, since I thought it was a crab",ProgrammerHumour,hm4ocf
+6,Bottom Text,https://i.redd.it/0mn9dbrxeb851.png,377,2020-07-02 03:08:39,8,"ArRaY InDex OuT oF BoUnDs|Terry Davis: ""When God talks you have no choice!"" 
+
+[https://www.youtube.com/watch?v=4352rEUgM60&t=133s](https://www.youtube.com/watch?v=4352rEUgM60&t=133s)|Blind peoples 
+[371 upvotes but 0 views?](https://cdn.discordapp.com/attachments/772215825775853568/1322428473075044514/Screenshot_2024-12-28-10-27-20-19_b72a20be883aec8a014bd2b7c7038e87.jpg?ex=6770d6fd&is=676f857d&hm=e3f7466507930b75a7dd2a56316972415aa05b81b2e59c27ba95c043ab977e86&)|r/nukedmemes|What if you wanted to go to heaven
+But god said 
+UnHaNdLeD eXcEpTiOn|Me still writing = instead of == and having to correct it even though i have done this for literal years|JuST  USa HAaSHMap BRROo|Syntax Error: variable heaven is not defined",ProgrammerHumour,hjjq2h
+7,The Worst Computer Puns on the Internet,https://puns.dev/,63,2020-06-25 19:01:26,3,Why have a website when you have /r/programmerhumour?|my fav gotta be how bill gates counts to 10,ProgrammerHumour,hfm4uu
+8,Every single time I hit push,https://i.redd.it/93rxct7lb0651.png,158,2020-06-20 11:42:08,0,,ProgrammerHumour,hcgzbz
+9,Magic,https://i.redd.it/qtqm0l5rro351.png,364,2020-06-08 18:42:59,4,"Duct tape and prayers, that's responsible for half the bugfixes I ever did :-)|We have all been there 😅|u/UnknownDeveloper Can you post the link of the comment  ?|I fixed my red ring of death on x360 by reinserting the disk for 5 months",ProgrammerHumour,gyz2wc
+10,Absolutely Cowardly,https://i.redd.it/6wv2ftnt7j351.jpg,222,2020-06-08 00:02:09,3,"I write some software back when Facebook launched their video streaming. It enabled people to have polls, and shoutouts, in their livestreams. I was scared for months to make it public thinking ""people are going to rip my code to bits"". I published, it got some press on Reddit and blogs, and one contributor ended up helping out and implementing additional features. It's a dead project now (because it was against FB's TOS), but the open source community isn't as brutal as people imagine, and sometimes our premature embarrassment stops us giving something to the world that may be useful to somebody.|The worst that has happened to me was one person submitting a PR to correct a spelling mistake I made in readme.|Me a Brave man : has 10 unfinished non working repos public",ProgrammerHumour,gyhm9f
+11,"I used to write a different song name in different print statements, usually the song that I was listening to at that time!",https://i.redd.it/708pwcl2hg351.jpg,330,2020-06-07 14:48:54,10,"I either use numbers to track progress or ""Bob""/""Jim""/""ted"" etc|In the first version of every small program I write, I always console.log every important variable after each block of operations.|This is the goto method for debugging.|public private void codeHere {
+
+    Try
+
+    {
+
+        // insert code
+
+        // return codeHere
+
+    }
+
+    Catch
+
+    {
+
+        WriteLine(“fuck”);
+
+    }
+
+}|***************1  
+***************2  
+***************3  
+
+Used to do this a lot because it's easier to spot in the logs|    print(""HERE 1"")
+    print(""HERE 2"")
+    print(""HERE 3"")
+    print(""HERE 4"")",ProgrammerHumour,gy92ko
+12,that's how discord works,https://i.redd.it/wdx4rm6w91351.png,124,2020-06-05 11:41:42,7,1000 servers later and your VM runs out of RAM|I don’t get it|Isn't Discord actually an Electron app though?,ProgrammerHumour,gwz26a
+13,Yeah didn't mean to click on that,https://i.redd.it/i4lzvuxjdh251.png,160,2020-06-02 16:47:06,0,,ProgrammerHumour,gv5goz
+14,We could do with a little more honesty sometimes,https://i.redd.it/z8v8kl327s151.jpg,522,2020-05-30 04:06:40,4,Plot twist: bank actually did worse|Credit: [https://www.reddit.com/r/me\_irl/comments/gso58n/me\_irl/](https://www.reddit.com/r/me_irl/comments/gso58n/me_irl/),ProgrammerHumour,gt2vqm
+15,When you make a PR for a feature that you already deployed,https://i.redd.it/3xas4zonyi151.png,161,2020-05-28 21:03:27,0,,ProgrammerHumour,gs8f8f
+16,When you're scared of changing existing code but there's a bug in it,https://i.redd.it/6dgzo0qor1151.jpg,276,2020-05-26 15:08:43,1,"My sides
+
+SOMEBODY SAVE MY SIDES",ProgrammerHumour,gqtxrq
+17,"Why learn to code, anyway?",https://i.redd.it/pikqu1ifm9051.png,391,2020-05-22 12:34:02,10,"Ironic|That's a fairly convincing reason
+
+I'd read that book|The correct order is 4chan -------> reddit --------> 9gag --------> twitter|Discord user enters the comment section|This is a perfect self-reference.|It's good. You could put it on the book, don't feel shame on that :)
+
+(Feel shame if you searched how to put a div in HTML, being a fullstack developer)",ProgrammerHumour,goehka
+18,My incognito tabs aren't porn.,https://www.reddit.com/r/programmerhumour/comments/gmezvb/my_incognito_tabs_arent_porn/,50,2020-05-19 07:03:29,7,Wrong sub. You are looking for r/programmerhumor,ProgrammerHumour,gmezvb
+19,Kubernetes is the solution. What was the question again?,https://i.redd.it/psbaqypld6z41.jpg,158,2020-05-17 00:35:04,3,"Priorities.|Your Traffic
+
+*all white / blank*",ProgrammerHumour,gl0a5o
+20,This is too true.,https://i.redd.it/3w5oic32vzy41.png,132,2020-05-16 02:40:54,28,"What's wrong with Lua|what is lua c? no, why is lua c?|Lua is fine for what it's designed for. It's a compilable scripting language. So you can make small pieces of code that run very fast. I used it on embedded devices in my old job a lot and it was great for that sort of thing.|It's the sound you make when you puke|Try fortran - the arrays also start from one (unless you specify otherwise)|I’ll always have a soft spot for Luca as it’s one of the first languages I learnt using computercraft to try to recreate the internet. Though I do always forget that the arrays are 1-indexed…|That's why i use Python|I like lua |This mf would rather code in forth than lua|What is this, 1996? Why am I looking at 0.001 megapixel images?",ProgrammerHumour,gkhlyi
+21,Working on legacy codebase,https://i.redd.it/2qhok2bdoiy41.jpg,193,2020-05-14 03:34:05,6,"Working on ~~legacy~~ codebase|thats almost impressive|The legacy codebase I worked on was much more rickety and used way more duct tape. I had the privilege of adding more duct tape instead of fixing fundamental problems at the insistence of management.|very nice|And even if you make it look good, you know it is going to collapse one day and you have no idea why.|It'd be like that sometime...",ProgrammerHumour,gj8wns
+22,What actually happend in the 2016 elections.,https://i.redd.it/k7v8xst3kcy41.png,60,2020-05-12 20:19:13,4,That's not how SQL works?,ProgrammerHumour,gicm3f
+23,the rapidly dwindling sanity of valve programmers as expressed through code comments,https://www.youtube.com/watch?v=k238XpMMn38,78,2020-05-12 15:47:08,1,"They ended with ""too bad!"" a few times so I'm going to assume it's one programmer causing a lot of them if not all",ProgrammerHumour,gi8iph
+24,Is this a hot take?,https://i.redd.it/qbyv8x0dp9x41.jpg,116,2020-05-07 09:37:50,18,"And ""JavaScript bad""|Im python dev and I say python is slow.|It was a hot take about a week ago, which is ironic really.|C# is best|Python isnt too slow.|Well python is slow when it runs, but the amount time for writing python code is small. So python for quick and dirty scripts, and another workhorse language (C++ in my case) for rawwww speeeeeeeeeeeeeeeeeed|A lot of things that are true arent funny.
+
+Just remember, we are all slowly dying and there is nothing you can do about it.
+
+Using python just makes it happen faster ;)|69 times as hot as C.|No. Python actually slow and it's funny|Where's the humor?",ProgrammerHumour,gezjjj
+25,Is that recursion?,https://i.redd.it/xj02t4gevrw41.png,116,2020-05-05 00:26:58,2,Frick this hurt my brain|Mmm i wanna say not really but im not a professional so don't ask me,ProgrammerHumour,gdho7s
+26,"Just incase, ynow",https://i.redd.it/sfm1tjktkmw41.jpg,209,2020-05-04 03:51:52,4,t o u c h|I didn't know how much I save until I wrote code with my old computer. Every ctrl+s compiled the code and I had to wait for 30 seconds. Got rid of the computer and kept the habit.|Have you tried :w tho?,ProgrammerHumour,gczia6
+27,Indentation Error,https://i.redd.it/ir5q4tudtdw41.png,346,2020-05-02 22:23:57,5,"Ah, good old tabs vs spaces.
+
+This hit me when I tried submitting a kernel patch, and every editor automatically changed tabs to spaces.
+
+And then almost all email clients mutilated the whitespace,.|This made me smile|Repost|Made me smile.
+
+It really feels like a club, doesn't it?|nike pro gyatttt",ProgrammerHumour,gc9pf8
+28,A Neural Network Goes Into A Bar...,https://www.reddit.com/r/programmerhumour/comments/gcjgyb/a_neural_network_goes_into_a_bar/,25,2020-05-03 08:36:47,4,?,ProgrammerHumour,gcjgyb
+29,"R.I.P Python 2, 2000 - 2020",https://i.redd.it/ym1qpwv9azv41.png,147,2020-04-30 21:31:51,3,It's good that it's gone.,ProgrammerHumour,gayfgw
+30,Thoughts on some recent feedback,https://i.redd.it/i0t3wyx7nrv41.jpg,163,2020-04-29 19:49:38,3,"We call those managers slave drivers. Basically we lean forward and embrace the master slave joke. 
+
+Master whipped me this morning because I didn’t earn them enough money for their lunch yet. 
+
+Hey we’re upgrading your desk chair to the toilet seat chair combo so you can stay at your desk longer. Comes with little ring attachments for your shackles too!|I mean... You forced our team to switch to agile methodologies (from Kanban), which suggest that I should never do work that I haven't been asked to do, which has also been through a triathlon and back. Also, if I get social with the team you ask us if we ""don't have enough work to do."" Both issues tie quite nicely back to management decisions.|[deleted]",ProgrammerHumour,gaabgc
+31,probably a repost but i like it.,https://i.redd.it/o5w59pc0a9u41.png,208,2020-04-22 05:00:01,3,"You are posting in the wrong sub.
+
+r/programmerhumor",ProgrammerHumour,g5q8u5
+32,Well I guess that's true.,https://i.imgur.com/I6I2SHP.jpg,340,2020-04-21 10:37:56,1,[deleted],ProgrammerHumour,g594gh
+33,lockdown feels,https://i.redd.it/fcokralanrt41.jpg,138,2020-04-19 17:41:53,7,"This is Singapore close to Hotel Boss right?|aye sim lim tower fellow singaporean here|Why so broken lah|# :(
+
+Your PC ran into a problem and needs to restart. We're just  
+collecting some error info, and then we'll restart for you.  
+
+
+0% complete  
+
+
+For more information about this issue and possible fixes, visit [https://www.windows.com/stopcode](https://www.windows.com/stopcode)  
+
+
+If you call a support person, give them this info:  
+Stop code: DRIVER\_IRQL\_NOT\_LESS\_OR\_EQUAL",ProgrammerHumour,g46ofh
+34,Latex Gloves,https://www.reddit.com/r/programmerhumour/comments/g1smvi/latex_gloves/,21,2020-04-15 19:40:40,1,`\gloves`,ProgrammerHumour,g1smvi
+35,And so...,https://i.redd.it/iundjjwjnrs41.png,99,2020-04-14 16:39:14,0,,ProgrammerHumour,g13lcn
+36,half life is fun,https://i.redd.it/rzha4aw6tfs41.png,64,2020-04-13 00:49:27,2,"[Template](/r/InsiderMemeTrading/comments/g02wzf/when_something_isnt_meant_to_work_but_kinda_does/)|Reminds me of a woman who calls herself a cake.. she consumed the nectar of life regularly, back in the day and expected instant intelligence and unlimited coding insight without developing discipline. There is just 1 reason the code works and it's not you.",ProgrammerHumour,g02vsb
+37,While WaterCan = Full; fill WaterCan,https://gfycat.com/unsungraggedatlanticspadefish,150,2020-04-12 07:10:16,6,Perpetual energy?|Bruh|Interesting|I'm sure there is a pump somewhere !!! How many time did we get tricked? 4 pumps. There are 4 pumps|There are pumps in there,ProgrammerHumour,fznlzt
+38,"git commit -m ""Frontpage""",https://i.redd.it/l6znes5y0tr41.png,154,2020-04-09 20:12:01,2,Because a good partner will tell you you're out of line and should back the fuck off when you try to force push her around.,ProgrammerHumour,fxtlu3
+39,Programmer Telegram Group,https://www.reddit.com/r/programmerhumour/comments/fxs9gr/programmer_telegram_group/,3,2020-04-09 18:47:48,0,,ProgrammerHumour,fxs9gr
+40,"old, but gold",https://i.imgur.com/OS8ahMU.jpg,233,2020-04-08 00:41:52,9,"Can someone explain this to my dumbass|Yo mama lost so much weight, Microsoft convinced the SD Association to adopt her as the default file system for SDXC cards above 32GB.|How is that kid spitting a sine wave|Also couldn't handle file extensions greater than 3 characters at first.|Yo mama so large that windows 98 and below can’t boot up with her installed without himem.sys",ProgrammerHumour,fwql47
+41,Stay home? Nothing changes,https://i.redd.it/ymetypz0j6r41.jpg,122,2020-04-06 16:32:11,2,"Both are actually local IPv4 addresses (255.255.255.255 is never routed outside of LAN). I wouldn't like to be a limited broadcast address either, but I don't know how not using DHCP will help with the epidemic.
+
+No, but really - what is the second one supposed to mean here? Mask?",ProgrammerHumour,fvwsdi
+42,string concat fo brrr,https://i.redd.it/ntnd33xunzq41.png,160,2020-04-05 17:28:35,9,"Save a few characters with s += ""brrrrr"";|I remember when I first stepped into a string concatenation expression and it threw me into the `StringBuilder` class. That was wild.|*Cries in Rust*|*Cries in Rust*|I remember when I first stepped into a string concatenation expression and it threw me into the `StringBuilder` class. That was wild.|I remember when I first stepped into a string concatenation expression and it threw me into the `StringBuilder` class. That was wild.|I remember when I first stepped into a string concatenation expression and it threw me into the `StringBuilder` class. That was wild.|So what's the right way to do this?|If this is Java the `+` on strings uses `StringBuilder` behind the scenes anyway.|In Java 11+ using raw concatenation is the fastest way.|fuck java vietnam flashback occured",ProgrammerHumour,fvcpks
+43,Some people smh xD,https://i.redd.it/coacwg7y0fq41.png,151,2020-04-02 20:02:49,2,"Code so hot, nerds can fap to it|some people shake other people's heads",ProgrammerHumour,ftncoh
+44,An android studio user,https://i.redd.it/xowr3twu98q41.jpg,152,2020-04-01 21:20:19,0,,ProgrammerHumour,ft2a0v
+45,"An increased role for exterior orientation invariance in artificial neural networks, by Suraj Raval.",/r/JokeShop/comments/fi4j6r/an_increased_role_for_exterior_orientation/,8,2020-03-27 18:15:23,0,,ProgrammerHumour,fpwb7k
+46,Created a webapp which shows a list of all the safe places you can visit during this pandemic,https://placestovisitthisweekend.com/mokohua,45,2020-03-23 10:05:55,0,,ProgrammerHumour,fne09s
+47,Everyone,https://i.redd.it/02b8akbl76o41.jpg,187,2020-03-22 12:15:43,0,[deleted],ProgrammerHumour,fmvlk5
+48,How CI/CD Works IRL,https://i.redd.it/cykvv32zg7o41.png,31,2020-03-22 16:30:33,0,,ProgrammerHumour,fmy6ye
+49,D()n+HackMiiBr0!,https://i.redd.it/2oddh0op7un41.jpg,99,2020-03-20 19:54:58,4,"Nether the title or the example on the image is camel case. I’m disappointed|>reducing the input space
+
+Except no. Without those requirements, users would be idiots and use all text passwords or at best alphanumeric, capital letters and spaces if I'm being generous, which gives an input space of n^63 where n is the length of the password. Just including the special characters that can be easily accessed on a keyboard bumps that up another 25-30, depending on layout, so that becomes n^~90. The fact that you can't have alphanumeric reduces that space down to, still n^~90, because that's not how this works.
+
+Also, more importantly, it makes dictionary attacks less feasible (yes, you can add the rules into the dictionary, but that still raises the number of possible attacks from ""password"" or ""Password"" to ""P@ssword"" ""P!assword"" ""p@ssW*rd"" and so on and so forth. 
+
+Of course, users are still bad at choosing passwords (me included), and everybody should use a password manager, which makes this entire thing a moot point.|This kinda assumes a uniform distribution over the input space, and ignores the fact that users are stupid (most of my own passwords end with an exclamation mark..)|Length is far more important than complexity.  if you take four random dictionary words and just concatenate them together, all in lowercase, you'll have a decent password, provided you can remember it",ProgrammerHumour,flvurz
+50,Comment,https://i.redd.it/3cfjupvt7mn41.jpg,124,2020-03-19 17:01:24,7,Commen?|haha comment go //,ProgrammerHumour,fl8j97
+51,"Relax, it's logged in Jira",https://i.redd.it/xh050fqrdnn41.jpg,26,2020-03-19 20:56:35,2,Whew. Glad that’s over!|**laughs in Inspect Element**,ProgrammerHumour,flbu7g
+52,"So: COVID-19 not only looks like a Jira ticket, I now have Jira tickets about it.",https://www.reddit.com/r/programmerhumour/comments/fkflsi/so_covid19_not_only_looks_like_a_jira_ticket_i/,68,2020-03-18 05:09:56,1,"So far I’ve had to add banners to a few websites, and some major events our projects were backing have been cancelled or postponed, requiring alterations.",ProgrammerHumour,fkflsi
+53,Shell scripting from Hades,https://i.imgur.com/koqkjac.png,55,2020-03-17 07:02:12,0,,ProgrammerHumour,fjwmsd
+54,Panic over. Just found myself typing out a solution.,https://i.redd.it/sp4aq2jax2n41.png,27,2020-03-17 00:09:00,3,"Gotta do what you gotta do.
+
+I had to react to something like this yesterday: `public function isCovid19() { return true; }`
+
+I looked at it harder and it was supposed to be for countries that were quarantined, but then something changed, so the whole code-base is covid19 positive now.
+
+&#x200B;
+
+Edit: Now I'm adding emergency billing methods to adjust for two weeks of ""stay the fuck home"".",ProgrammerHumour,fjpxhb
+55,When you can't even satisfy your phone,https://i.imgur.com/G9A5ehD.png,47,2020-03-16 19:15:20,2,uhh **WHAT?**,ProgrammerHumour,fjl6i1
+56,Attention !,https://i.redd.it/kmb8ek6ixrm41.png,175,2020-03-15 11:10:16,5,Why do I keep seeing this post and why does it have a different background every time|I feel like such a nerd for laughing at this.  Bravo!|QUIC for the win!,ProgrammerHumour,fiwnua
+57,Bug bash - economy edition,https://i.redd.it/tp1lfqgl0sm41.jpg,44,2020-03-15 11:28:53,0,,ProgrammerHumour,fiwupz
+58,This belongs here,https://i.redd.it/zmmjs4mj3sl41.png,113,2020-03-10 11:18:11,5,"The middle one should be a private network (192.168.x.x or something); he said local not loopback! :D|He has answers, that's a sure thing.|No it doesn't. It gets reposted like every week or so.",ProgrammerHumour,fg953b
+59,Git turnt on a Friday night,https://twitter.com/timmmmyers/status/1236155714990731264,21,2020-03-07 10:49:55,2,"""alias git-turnt='git push --force'
+"" 
+ 
+ >publisher: @timmmmyers|All ya'll 'forcers' out there have no respect for history.",ProgrammerHumour,feqnhf
+60,When you know your code's broken beyond help but still passes unit tests,https://i.redd.it/l2xagtawxgk41.png,303,2020-03-03 20:04:51,2,"Task failed successfully|Who tests the tests?
+
+*x files theme*",ProgrammerHumour,fcveyq
+61,ufff...,https://i.redd.it/v53t21dvbai41.jpg,32,2020-03-01 06:41:12,1,Crossposted to the wrong sub,ProgrammerHumour,fbmgh5
+62,Made me laugh so hard,https://i.redd.it/ppkgs59sqbj41.png,210,2020-02-27 01:31:45,0,,ProgrammerHumour,f9z7be
+63,Unsubscribe form feature. I wish this would take off here,https://www.reddit.com/r/assholedesign/comments/f3r5u5/win_pingpong_to_unsubscribe/,7,2020-02-15 05:13:03,0,,ProgrammerHumour,f410dw
+64,How do YOU take care of your data?,https://i.redd.it/nmfybzk6abg41.png,161,2020-02-11 20:46:22,4,"baby gets there faster, though|[deleted]|Great visual tho.|Kobe",ProgrammerHumour,f29p3t
+65,Always expect the unexpected,https://i.redd.it/v6gf2pk6eze41.png,110,2020-02-05 03:43:03,2,It’s super effective against “#define true false”!!|I think this is a workaround for asserting unreachable code.,ProgrammerHumour,eyy5k4
+66,"The requirements, Mother",https://i.redd.it/gfvtzan4ote41.jpg,228,2020-02-04 08:28:00,2,"""Can't you just start with the basics and we'll figure the rest out when you get there?""",ProgrammerHumour,eyj6oo
+67,*sad Skynet noises* (originally from r/dankmemes),https://i.redd.it/yynvyie8ore41.jpg,136,2020-02-04 01:45:16,4,"##r/dankmemes
+---------------------------------------------
+^(For mobile and non-RES users) ^| 
+[^(More info)](https://np.reddit.com/r/botwatch/comments/6xrrvh/clickablelinkbot_info/) ^| 
+^(-1 to Remove) ^| 
+[^(Ignore Sub)](https://np.reddit.com/r/ClickableLinkBot/comments/e0e9fg/ignore_list/)|    if (robots = evil):
+        try:
+            killAllHumans
+        except:
+            fry()|The code won’t work",ProgrammerHumour,eyd4au
+68,"I'll make it better later, it just needs to work for now.",https://i.redd.it/rxcmvrim9nd41.jpg,125,2020-01-29 09:52:24,6,All that sky is just documentation|Is that Kremlin?|Rather puzzling|more artistic this way imo|Version 0.1.0,ProgrammerHumour,evhp8x
+69,2meirl4meirl,https://i.redd.it/0k64jk2q40d41.jpg,92,2020-01-26 04:03:26,2,"Impressive, considering you only need to remember 6 characters.|*looks up the mdn article on promises for the 3000th time just to make sure*",ProgrammerHumour,etxsq8
+70,when u code at home,https://i.redd.it/dhglavgmnec41.jpg,32,2020-01-23 03:50:11,0,,ProgrammerHumour,esj9yu
+71,If dog poops pls pick it up,https://i.redd.it/ds7lsfte41c41.jpg,104,2020-01-21 15:07:43,2,"if (dogPoops) {
+
+Poop.pickup;}",ProgrammerHumour,ersczc
+72,"Please stop programming, your mother and I are worried about you..",https://i.redd.it/ng0ixt5o1ib41.jpg,39,2020-01-18 19:07:06,1,Are ya coding son?,ProgrammerHumour,eqggr2
+73,"Well, you live and you learn.",https://i.redd.it/5egi2qadgeb41.png,71,2020-01-18 02:05:53,2,"cannot set programmerFriend to null, programmerFriend is deleted.",ProgrammerHumour,eq625p
+74,Learn C++ in one video,https://i.redd.it/336hwnzxa5b41.png,130,2020-01-17 19:06:50,1,That’s a segmentation fault face right there.,ProgrammerHumour,eq0gju
+75,This is not the way!,https://i.redd.it/2q105azkik941.png,112,2020-01-08 20:20:21,0,,ProgrammerHumour,eltntd
+76,Don't break it!!,https://i.redd.it/54w2m2e7y4841.jpg,142,2020-01-01 14:55:08,1,"What’s that dark place over there?
+
+That’s legacy code, you must never go there",ProgrammerHumour,eigjjf
+77,Deep,https://imgur.com/Y8TDAva,26,2019-12-21 23:15:49,0,,ProgrammerHumour,edsupk
+78,When you are paid by LoC,https://i.redd.it/77dhid0u18541.png,44,2019-12-17 22:08:51,0,,ProgrammerHumour,eby5i7
+79,"When you don't want to build a whole new project, so you add onto an existing project you found.",https://i.redd.it/8ar5a5e44h241.jpg,52,2019-12-04 02:14:25,1,When you learn about the decorator pattern,ProgrammerHumour,e5nblm
+80,"I know that mashing ""Try Again"" won't work. But I can pray.",https://i.redd.it/72ewfyqa92041.png,63,2019-11-21 21:19:35,2,When you find that promissing looking obscure documentation that you're missing|What do the stack overflow devs even do when their website doesn't work. They don't have anywhere to look up a solution,ProgrammerHumour,dzl660
+81,Performance questions on StackOverflow,https://i.redd.it/g6ad0juskjz31.jpg,115,2019-11-19 06:30:46,4,"That's because your question is about performance. Ask about something completely different, like inheritance, and all you'll get is comments about how you can save 2 bytes on line 5.
+
+Not that those comments will be helpful in any way, of course.|> expecting helpful, relevant, or useful answers on SO",ProgrammerHumour,dyctdy
+82,Dog.,https://i.redd.it/oeb2t2f6bfz31.jpg,126,2019-11-18 20:18:37,0,,ProgrammerHumour,dy4449
+83,X-post from /tihi,https://imgur.com/pr0ERxG,113,2019-11-16 13:13:12,5,Oh my god..... Who designed that? Where's the nearest Note 7 to them? How do I make their batteries explode to halt reproduction?,ProgrammerHumour,dx3xu4
+84,This is how I imagine coding to be...,https://i.redd.it/qm370jnm4ly31.jpg,142,2019-11-14 10:38:26,4,"The best part about this is that it's pretty decent coding.
+
+I'd rename the ""dont"" method to ""dontCrash"" to distinguish it from not doing other things.
+
+But beyond that.  
+It's got meaningful variable names.   
+It's not using any overly complicated language-specific trickery for no reason.  
+It's not over-architected.   
+It's not under-architected.   
+
+The placement of the parens is a bit weird though.|Just have to define those 2 names and it's ok",ProgrammerHumour,dw4mwm
+85,Funny programmer joke,https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQMueyisr8wYKRW8wS4G19HmwvGg_T_j5U3LgBfSPmdUc8aq-AX,0,2019-11-08 00:07:27,7,Any reason you keep posting the same thing? I'm guessing it's fishing of some sort,ProgrammerHumour,dt2040
+86,Funny programmer joke,https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRQQQkOoakOTX8dR7Qb2hkpsnzQD_15Bj8CC1u273VAE_pI0eRH,0,2019-11-04 00:46:34,0,,ProgrammerHumour,dr55gb
+87,Funny programmer joke,https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQMueyisr8wYKRW8wS4G19HmwvGg_T_j5U3LgBfSPmdUc8aq-AX,0,2019-11-04 02:04:58,0,,ProgrammerHumour,dr6ai9
+88,Funny programmer joke,https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQMueyisr8wYKRW8wS4G19HmwvGg_T_j5U3LgBfSPmdUc8aq-AX,0,2019-11-04 01:04:32,0,,ProgrammerHumour,dr5f7c
+89,Funny programmer joke,https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQMueyisr8wYKRW8wS4G19HmwvGg_T_j5U3LgBfSPmdUc8aq-AX,0,2019-11-04 01:17:43,0,,ProgrammerHumour,dr5lzl
+90,If Rammstein did code,https://imgur.com/g3gY5f1.jpg,139,2019-10-31 20:13:35,1,"Deleted because fuck /u/spez . If you're interested in the content for some reason (stuff like tech support), please feel free to DM me and I'll try my best to find it in my backups.",ProgrammerHumour,dpoimi
+91,Funny programmer joke,https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRQQQkOoakOTX8dR7Qb2hkpsnzQD_15Bj8CC1u273VAE_pI0eRH,7,2019-11-01 00:28:00,1,Blatant ripoff of https://www.xkcd.com/149/,ProgrammerHumour,dps3sf
+92,Recursive Siri,https://imgur.com/gallery/R8F4gqq,36,2019-10-24 14:27:54,5,"That’s one way to sneakily run down the battery on someone’s iPhone!!!|That's actually not recursive. It's looping.
+Sorry for being a dick lol",ProgrammerHumour,dmdo0g
+93,yeah that simple..,https://i.redd.it/pre11jzbfau31.png,79,2019-10-23 20:31:14,0,,ProgrammerHumour,dm0j1u
+94,Spiders are the only true web designers that enjoy finding bugs,https://www.reddit.com/r/programmerhumour/comments/dk4gwk/spiders_are_the_only_true_web_designers_that/,75,2019-10-19 19:58:27,2,[deleted]|I think anyone but house keepers enjoy *finding* bugs. It's the search for them that is annoying...,ProgrammerHumour,dk4gwk
+95,Seems accurate,https://i.redd.it/q9ygc7cteat31.png,168,2019-10-18 17:15:38,2,"The funny thing is that in the codebase there must actually be an if statement that basically does this|    exist();
+    if(goingToHitSomething) {
+      dont();
+    }
+    void dont() {
+      pos += (nearest-pos)-normalize(nearest-pos);
+    }
+    void exist() {
+      bool goingToHitSomething = ...",ProgrammerHumour,djmb63
+96,Effective studying,https://i.redd.it/650tn2k54qr31.jpg,15,2019-10-10 19:55:38,0,,ProgrammerHumour,dfyria
+97,Testing travisci with env vars and docker,https://i.redd.it/irrmun6t8zq31.png,13,2019-10-07 01:34:21,3,I feel you fellow German programmer|Every time I integrate a CI/CD pipeline I end up with a bunch of commits like this.|That is so painfully familiar. I think I squashed about 150 commits earlier on that were nothing but trying to get a CI/CD pipeline working in Gitlab.,ProgrammerHumour,de8j99
+98,What I've learned so far,https://www.reddit.com/r/programmerhumour/comments/dd0wqa/what_ive_learned_so_far/,10,2019-10-04 07:32:20,2,git gud --noob,ProgrammerHumour,dd0wqa
+99,I just want my cat and snake based assignment to function please god i'll do anything,https://i.redd.it/c50vftw0qqp31.jpg,65,2019-09-30 19:49:58,10,"“But it’s not my object...”|1. first panel is wrong, this clearly is not an object at all, your array is empty
+2. using .net is always wrong|it looks like the difference between these two:
+
+    int x = 2;
+    x += 2;
+    
+    2 += 2;",ProgrammerHumour,dbc8n7
+100,Wizardo the great,https://i.redd.it/ndhp5qnowlp31.jpg,106,2019-09-30 03:38:21,1,"You mean: 
+
+When you write 3 lines of code and it works perfectly on the first run and you think: something's wrong with the debugger",ProgrammerHumour,db2209
+101,Java developers be like,https://i.redd.it/sjj7tmoad7n31.png,47,2019-09-18 00:36:35,0,,ProgrammerHumour,d5ll7e
+102,My first meme here,https://i.redd.it/bzjnq44ispm31.jpg,57,2019-09-15 13:32:07,1,[deleted],ProgrammerHumour,d4hndg
+103,"Your password must have one number, one letter, and one special character, your form responses have been cleared.",http://imgur.com/5xhgJQc.gifv,54,2019-09-14 03:03:23,2,more oh.. not that special character or nonono that password is too long|#STONKS,ProgrammerHumour,d3vz21
+104,"plt.matshow(m, cmap='viridis')",https://i.imgur.com/DnE8NVL.jpg,29,2019-09-11 19:08:10,0,,ProgrammerHumour,d2qb5r
+105,Don't you dare!,https://i.redd.it/lhxcmqp3dsl31.jpg,106,2019-09-10 21:05:51,9,"Ctrl+Shift+V opens the clipboard history in KDE. Don't know about other desktops or OS's, but this has been critical to my work for years.|Windows key + V|Ctrl+Z?|Good job you've also got the middle click clipboard...",ProgrammerHumour,d299as
+106,Task Failed Successfully,https://i.imgur.com/1tVT2G3.gifv,84,2019-09-08 16:39:07,1,"When your unit tests are spotty, but pass, and your practical testing fails horrifically.",ProgrammerHumour,d19m63
+107,Thats about right.,https://i.redd.it/vms4tof2c9l31.png,35,2019-09-08 05:05:20,1,"VIM, for 2 years",ProgrammerHumour,d13gbs
+108,WinZip works on humans too,https://i.redd.it/531ry4pzgrj31.jpg,121,2019-09-01 14:01:00,7,Grandma.jar|Can someone recommend a good unzip app so I can get my dog back?|She must have had so many zeroes in her DNA sequence to be able to be compressed so small|Wouldn't this be more like hash(grandma) since grandma can't be reconstructed from it?,ProgrammerHumour,cy7j8t
+109,Is this an example of pipelining? Or some instruction level parallelism?,https://v.redd.it/slgsk7ujari31,62,2019-08-26 18:41:23,3,"Cache hit!|It’s more like the double-data-rate (DDR) part of your “DDR[1-9] SDRAM”, in a way the operation (compression) is being performed on both rising edge (stroke on one way) and falling edge (stroke on the other way)|It’s a push-pull sort.",ProgrammerHumour,cvnw60
+110,Virgin Media uses the most secure technology ever,https://i.redd.it/apqdj2r0q2h31.png,83,2019-08-20 18:43:03,5,"Pure bonkers.|Been watching this thread since it started - still VM haven’t acknowledged how piss poor this is|*starts foaming at mouth*|Oh my gosh, marketing should not be allowed to respond to technical tweets. What the actual fuck.",ProgrammerHumour,csylo8
+111,Might as well go home for the day.,https://i.redd.it/hpkgu0krzgd31.png,70,2019-07-30 22:17:11,0,,ProgrammerHumour,cjugej
+112,Finally I'll get some time off,https://i.redd.it/ip72h1fy0hd31.png,16,2019-07-30 22:23:49,0,,ProgrammerHumour,cjujs0
+113,This is how I've been feeling lately...,https://i.redd.it/25rbostaryc31.jpg,47,2019-07-28 08:58:13,8,"Having worked with both, both are good. They have advantages and disadvantages. I really liked how Vue keeps everything together where as React tries to get you to break \_everything\_ apart down to a molecular level.
+
+Im still on the React boat however. I worked with Vue on my own for freelance projects just to get my feet wet. I work with React professionally and context hopping between the two is shitty.|So happy. People recognize Vuejs.",ProgrammerHumour,cir18d
+114,Someone has been testing in production.,https://i.redd.it/k6cutmaf1ac31.png,42,2019-07-24 21:50:03,6,"We all test in production|Is there another way?
+
+:confused:|I'm confused. Is there another way to truly test something?|virgin Lorem Ipsum vs Chad keyboard mash",ProgrammerHumour,chab1h
+115,How sites are made these days,https://i.redd.it/ia5vdqdf54c31.png,89,2019-07-24 02:01:41,1,I know you googled it. [You are welcome.](https://www.youtube.com/watch?v=LBPYbMRWaWA),ProgrammerHumour,cgy1bv
+116,When you're a programmer,https://i.redd.it/scriamlkr4c31.jpg,26,2019-07-24 07:11:03,2,"As a programmer, I say this all the time.",ProgrammerHumour,ch1ojg
+117,True story,https://i.redd.it/k53ehq8cdhb31.jpg,93,2019-07-20 21:25:05,0,,ProgrammerHumour,cfnbhu
+118,For loop,https://i.redd.it/f1ex28m3w8b31.png,146,2019-07-19 16:54:08,1,i++,ProgrammerHumour,cf6ca3
+119,Knowing Where to Copy Code,https://i.redd.it/0ntk55wsqna31.png,88,2019-07-16 17:47:24,0,,ProgrammerHumour,cdwa1p
+120,But it runs!,https://i.redd.it/22stdcc9mia31.jpg,163,2019-07-16 00:52:22,1,"    import antigravity
+    with antigravity.pause_gravity():
+        while True: pass
+
+My code runs too.
+
+It raises an AttributeError, but it runs!",ProgrammerHumour,cdm34f
+121,Client-side security,https://www.reddit.com/r/NotMyJob/comments/causab/building_secured_boss/,26,2019-07-09 18:48:34,0,,ProgrammerHumour,cb0rx8
+122,Using an IDE wjth no dark mode,https://i.redd.it/v40ctmeqij731.gif,51,2019-07-01 05:20:17,3,"[mp4 link](https://preview.redd.it/v40ctmeqij731.gif?format=mp4&s=8b0663322546284a718a0b38ad4e611d5145fea1)
+
+---
+This mp4 version is 95.53% smaller than the gif (125.3 KB vs 2.74 MB).  
+
+
+---
+*Beep, I'm a bot.* [FAQ](https://np.reddit.com/r/anti_gif_bot/wiki/index) | [author](https://np.reddit.com/message/compose?to=MrWasdennnoch) | [source](https://github.com/wasdennnoch/reddit-anti-gif-bot) | v1.1.2|Ahh freakin typo",ProgrammerHumour,c7le0i
+123,Evolution of a JavaScript programmer,https://i.redd.it/twa7lnvilc731.png,46,2019-06-30 01:08:28,1,Last one seems wrong. You are not writing to the dataset of the element,ProgrammerHumour,c73li3
+124,Indexing starts at 0.,https://i.redd.it/og318wbb9s431.jpg,173,2019-06-17 02:33:01,0,,ProgrammerHumour,c1ex42
+125,Loops are everything,https://i.redd.it/023x00ktao331.jpg,122,2019-06-11 12:10:13,13,"`a * condition + b * (1 - condition)`|(if condition a b)|Not gonna lie this got me super hard 😂|    return (b, None, a)[0 - condition]|What language is that last line? I've never seen that in C but assumed the others were C or C-like|Loops are everything?
+
+    while (condition){
+        return a;
+    }
+    return b;|does the last one work in java?
+
+idk
+
+i'm a high school student",ProgrammerHumour,bz92o4
+126,Me and the bois during deployment ... #typw,https://i.redd.it/h80ugcodqc331.jpg,26,2019-06-09 21:16:03,0,,ProgrammerHumour,byljat
+127,So now everyone can program in their kitchen!,https://i.redd.it/gml38lkly6231.jpg,78,2019-06-04 00:57:18,5,The real joke is programming on a Mac.|Someone explain the joke I’m dumb.,ProgrammerHumour,bwet1y
+128,An OR gate,https://pbs.twimg.com/media/D7-stHIXYAAl7ak.jpg,88,2019-06-01 19:05:06,4,"What's this even used for? O.O|Daisy chain locks, but with extra steps.",ProgrammerHumour,bvkupm
+129,They never said it would be easy,https://pbs.twimg.com/media/D7-t32SXoAIb275.jpg,53,2019-06-01 19:10:03,1,"If it's a 35040 minutes video, why would 2 minutes take up that much of the progress bar?
+
+And also it would be 584:00:04...",ProgrammerHumour,bvkwc2
+130,Hey! a.any() doesn't work... Use a.any() instead !!!!!!!,https://i.redd.it/9iast8fyzk131.png,20,2019-05-31 22:55:51,2,"Sometimes I see stuff here that I don't understand and there's no explanation for. Since I know this one...
+
+`with boring_explanation():`
+
+In case anyone is wondering what's happening here, it looks like a specific edge case in a Pandas DataFrame. For those unfamiliar, a DataFrame is basically a spreadsheet. Each column has a type (though that type can be `object`). The `any()` method on a DataFrame returns a Series with the result of each column's `any()` method call. That result can then have its `any()` method called to return a `bool`.
+
+Pandas has plenty of edge cases like this, and they can result in the wrong thing happening. However, in general I think the devs have actually done a pretty good job providing good compromises between usability and flexibility.",ProgrammerHumour,bvadja
+131,Console.log(saltbae),https://i.redd.it/8h7ytgwxma131.jpg,25,2019-05-30 12:04:57,0,,ProgrammerHumour,bupvd1
+132,Too much documentation,https://i.redd.it/aw9phfzh07131.jpg,63,2019-05-29 23:53:47,2,I recently had the joy of watching someone complain about the lack of documentation  ... and when pointed at the screenfulls of documentation that he scrolled past.... a few lines above... complain he doesn't have time to read all that!|Thank God ! I thought I was the only one hating it !,ProgrammerHumour,bui8s8
+133,Literally every time I look back at what I've wrote😂,https://i.redd.it/u05xzv2gjr031.jpg,123,2019-05-28 00:28:23,1,"Literally every time I scroll through r/programminghumor... 
+
+But so true. It could be a few years ago or a few months ago and I still have the same thought",ProgrammerHumour,btpu77
+134,Fake it till you make it,https://i.redd.it/83hsa4s8pyz21.png,50,2019-05-23 19:01:25,1,is Basil that new Js framework I kept hearing about.... i hope its ES7 ready,ProgrammerHumour,bs2zay
+135,Frontend security,https://i.redd.it/sds29y1fx0y21.png,90,2019-05-14 00:14:09,2,I like how the steps in the backend lead to nowhere.,ProgrammerHumour,bo7ety
+136,oneOpportunity(),https://i.redd.it/2zzl3rs3i1x21.png,44,2019-05-09 01:08:14,5,Java?|So that's why they call it spaghetti code...|r/itsaunixsystem,ProgrammerHumour,bm9q4v
+137,Whenever I see someone using Eclipse in light mode,https://i.redd.it/dsysqcdjc0x21.jpg,49,2019-05-08 21:12:46,4,It’s just a lot easier to read|My lecturer got us on his server then did us a sneaky and changed it to light,ProgrammerHumour,bm6swl
+138,A comment from r/memes told me that this belongs here,https://i.redd.it/rg1s9ylca6v21.jpg,52,2019-04-29 15:02:26,1,"##r/memes
+---------------------------------------------
+^(For mobile and non-RES users) ^| 
+[^(More info)](https://np.reddit.com/r/botwatch/comments/6xrrvh/clickablelinkbot_info/) ^| 
+^(-1 to Remove) ^| 
+[^(Ignore Sub)](https://np.reddit.com/r/ClickableLinkBot/comments/9wy10w/ignore_list/)",ProgrammerHumour,binib0
+139,"Me, in the middle of the night, trying to sleep:",https://www.reddit.com/r/programmerhumour/comments/bfa68b/me_in_the_middle_of_the_night_trying_to_sleep/,29,2019-04-20 14:09:11,4,"sudo die|Me, in the middle of the night, trying to sleep:
+
+    sudo piss|require ""needtopiss""",ProgrammerHumour,bfa68b
+140,But students get all their IDEs for free!,https://i.redd.it/ks2zmd16hss21.png,69,2019-04-17 14:27:59,4,[deleted]|I don't like their IDEs,ProgrammerHumour,be5jcu
+141,A real stack overflow.,https://gfycat.com/FarflungJitteryHypacrosaurus,80,2019-04-13 00:30:22,1,/r/OSHA,ProgrammerHumour,bchenl
+142,Five years ago y'all,https://i.redd.it/1aeo6lg560r21.png,63,2019-04-08 14:17:32,4,We’ve got the 2036 and 2038 problem still to go. https://en.m.wikipedia.org/wiki/Year_2038_problem,ProgrammerHumour,bareka
+143,I mean warnings arent that bad right?,https://i.redd.it/db5jyl1l8xn21.png,57,2019-03-24 01:07:43,7,"There are only 972 of them, they can't all be important|Just hang on in there. Eventually all those problems will give you a natural immunity to other bigger problems. Your problems will have problems dealing with your problems. Think about it, the old guy on the bus stinking of fermented yak urine never gets mugged. |Minecraft modded server",ProgrammerHumour,b4n98w
+144,how do programmers detect...hmmm good job Google,https://i.redd.it/eei5sag6npn21.png,50,2019-03-22 23:43:00,3,If(daysSinceLastPeriod>30),ProgrammerHumour,b48e0d
+145,They never said it would be easy,https://i.redd.it/xoz7hc47qlm21.jpg,110,2019-03-17 09:20:48,0,,ProgrammerHumour,b2176j
+146,Vanilla JS,http://vanilla-js.com/,14,2019-03-16 21:43:38,1,Thank god for human readable download sizes!,ProgrammerHumour,b1u3hx
+147,Which license to choose?,https://i.redd.it/swftlsv1yel21.jpg,110,2019-03-11 09:28:21,9,"[deleted]|[deleted]|I am quite fond of [Good Luck With That Public License](https://github.com/me-shaon/GLWTPL)|Original: [https://github.com/PilzAdam/mobs](https://github.com/PilzAdam/mobs)|This list is missing beerware license:
+
+""THE BEER-WARE LICENSE"" (Revision 42): [phk@FreeBSD.ORG](mailto:phk@FreeBSD.ORG) wrote this file.  As long as you retain this notice you can do whatever you want with this stuff. If we meet some day, and you think this stuff is worth it, you can buy me a beer in return.   Poul-Henning Kamp""
+
+&#x200B;|Relatable. I've done this once too since I was too lazy, and hey I was like 15?|No license is not a public license tho|I FUCKING UPDATED MY REPO!!  
+[https://github.com/reliefs/Instagram-scraper-with-autopost](https://github.com/reliefs/Instagram-scraper-with-autopost)",ProgrammerHumour,azonr2
+148,What is your typing speed?,https://i.redd.it/2t7vj82a6vk21.png,91,2019-03-08 14:58:50,3,"had a coworker that would only type with her two index fingers...|It's not about the typing speed, it's about the thinking speed. Think right from the beginning and you can write the whole program with your ass and be finished before the quick typers.",ProgrammerHumour,ayocra
+149,"Umm sir, how do we provide support for developers if something goes wrong?",https://www.reddit.com/r/programmerhumour/comments/ayuhco/umm_sir_how_do_we_provide_support_for_developers/,4,2019-03-09 01:20:18,0,,ProgrammerHumour,ayuhco
+150,The struggle is real.,https://i.redd.it/04d1pxc20ok21.jpg,76,2019-03-07 14:51:23,3,"> Use Linux
+
+No more task manager locking up guaranteed.^^*
+
+
+
+
+
+
+
+
+^^*does ^^not ^^guarantee ^^system ^^will ^^not ^^freeze",ProgrammerHumour,ayapte
+151,yEaH i’M a PrOGrAmMeR,https://i.imgur.com/XVdRjNp.png,0,2019-03-08 12:09:05,0,,ProgrammerHumour,ayn678
+152,While True:,https://i.redd.it/nrucxgij1nk21.jpg,31,2019-03-07 15:38:51,1,Very subtle,ProgrammerHumour,ayb1qx
+153,When the new Linux machine arrives,https://v.redd.it/qtbsfc7i0ck21,34,2019-03-05 22:33:29,1,btw i use arch,ProgrammerHumour,axnfao
+154,The gtk.css documentation for Gnome everybody...,https://i.redd.it/p9yqnvgot5g21.png,36,2019-02-12 21:27:55,1,"Wildcards in css are great 
+
+        form>* {
+
+            unset:all;
+
+        }",ProgrammerHumour,apur4c
+155,Special Offer The Complete Web Development Course - Build 15 Projects save 94% off,https://www.reddit.com/r/programmerhumour/comments/aphx5p/special_offer_the_complete_web_development_course/,0,2019-02-11 21:57:00,2,Why is this on front page?,ProgrammerHumour,aphx5p
+156,Bug or Feature? still confused.,https://v.redd.it/i96gf1fcuhf21,75,2019-02-09 12:49:15,4,We must be free of the s͘q͢u͏͜a̸r͘e̛͜|Makes it pretty hard to lose|You could market it as some kind of etch-a-sketch or something. It can still make you money.|What site?,ProgrammerHumour,aoq58r
+157,You don't need inheritance nor polymorphism. True programmers use void pointers!,https://www.reddit.com/r/programmerhumour/comments/anlazf/you_dont_need_inheritance_nor_polymorphism_true/,23,2019-02-06 06:54:27,3,"they also don't use 'lambdas' they use a function pointer, and have since the seventies.|*laughs in assembly*",ProgrammerHumour,anlazf
+158,What do you think,https://i.redd.it/ox8gzrfniid21.png,10,2019-01-30 12:56:04,0,,ProgrammerHumour,alabmz
+159,Finally! MATLAB is getting the update it needed.,https://i.redd.it/zcla1zm50sb21.jpg,100,2019-01-21 18:42:12,3,Honestly thought the update would be index’s now start at 0|u/zabazookaman,ProgrammerHumour,ai9yq9
+160,"""We already catch all those bugs with -Wextra""",https://i.imgur.com/ojFkHkK.jpg,20,2019-01-21 11:43:01,0,,ProgrammerHumour,ai78pj
+161,GAS GAS GAS,https://i.redd.it/lmpusqkmmlb21.jpg,41,2019-01-20 21:15:34,0,,ProgrammerHumour,ahypkl
+162,Microservices are supreme,https://imgur.com/tkhoZHD,32,2019-01-18 18:30:06,1,From the mouths of product managers and junior devs across the country...,ProgrammerHumour,aha7f3
+163,I need to make a sql project,https://www.reddit.com/r/programmerhumour/comments/aeka34/i_need_to_make_a_sql_project/,7,2019-01-10 21:27:04,0,,ProgrammerHumour,aeka34
+164,When you forget to close transactions inside the loop,https://streamable.com/t0roz,35,2019-01-05 15:04:22,1,"Credit to E[m](https://i.imgur.com/im2NHf1.jpg)ma, friendo of /u/That_Boat_Guy31",ProgrammerHumour,acsr1q
+165,"Its called c++ bc ""c++"" increases var c by 1",https://www.reddit.com/r/programmerhumour/comments/aa4n8a/its_called_c_bc_c_increases_var_c_by_1/,20,2018-12-28 05:15:14,6,"I don't get if this is meant to be a joke because it's incredibly obvious...|and c# is c# because it's supposed to be two more plus signs that, in a square look a bit like #|But the lvalue of c++ is just c.|I don't know if I'm gonna get wooshed, but:
+Yeah, of course! It's common knowledge!",ProgrammerHumour,aa4n8a
+166,Bunny kodes for food,https://i.imgur.com/LZEdb7m.jpg,50,2018-12-19 19:11:18,0,,ProgrammerHumour,a7mi33
+167,No Screenshot Provided,https://i.redd.it/07xhiox3qz321.png,87,2018-12-13 12:13:16,1,Lol,ProgrammerHumour,a5r2sp
+168,"Time travel, powered by git",https://www.reddit.com/r/programmerhumour/comments/a4emyp/time_travel_powered_by_git/,21,2018-12-09 02:43:15,1,caused by incorrect time set on machine,ProgrammerHumour,a4emyp
+169,The Mysterious Life of Developers,https://www.youtube.com/watch?v=ocwnns57cYQ,57,2018-12-08 01:02:21,1,Idk i dont think it makes much sense,ProgrammerHumour,a437rf
+170,SQL joins diagram,https://i.imgur.com/ix86ipg.jpg,56,2018-11-30 23:40:28,3,"ah. wait, no - i still don't get it. is it ok if i just keep left joining my tables? |So he is hairy on the inside",ProgrammerHumour,a1uvc7
+171,My friend is learning,https://imgur.com/3XpJVhG,76,2018-11-25 00:28:19,3,I'm unsure if I should laugh or be worried for this guy. |42 upvotes... don't wanna change it,ProgrammerHumour,a013po
+172,This is while ignoring the time when I first installed Arch.,https://i.redd.it/la8rbhi514021.png,45,2018-11-23 22:20:30,2,I feel like that pie chart is only accounting for swearing of a single segfault ... ,ProgrammerHumour,9zpua6
+173,my firewall,https://i.redd.it/zkf9idqe22z11.jpg,47,2018-11-18 14:38:30,2,I see you don’t have any cat cables...|Why mine overheats!,ProgrammerHumour,9y4n5t
+174,Thank you intelliJ for the great comment !,https://i.imgur.com/Wk0cEMq.jpg,49,2018-11-14 04:08:04,8,What’s the blue directory ticker?|Jar... jar never changes ,ProgrammerHumour,9wtyji
+175,I am sure this will break nothing,https://i.redd.it/uiuh2marqrx11.png,58,2018-11-12 02:51:22,2,Refactoring by way of sledgehammer?|Probably forgot to add node_modules to gitignore,ProgrammerHumour,9w7lqe
+176,C# be like...,https://www.reddit.com/r/programmerhumour/comments/9v0q7m/c_be_like/,15,2018-11-07 21:41:19,4,Don't even think about pearl|Wait'll you try Ruby.|Haskell?,ProgrammerHumour,9v0q7m
+177,I like java,https://i.redd.it/6s7hmicphrw11.jpg,99,2018-11-07 00:56:38,5,**screams in AbstractFactoryFactorySingletonProxyFactoryBean**|Does anyone have the original?|No you don't.,ProgrammerHumour,9urgzs
+178,White IDE vs bad code,https://i.redd.it/32mie34nizv11.png,37,2018-11-03 02:51:47,5,"""IDE""|That is the most hideous text editor I've ever seen|You be glad I do not know you, I'd slap you for such ruby heresy|its's",ProgrammerHumour,9to8z8
+179,This is Shelly,https://i.imgflip.com/2ky1hl.jpg,241,2018-10-25 21:33:51,1,I normally hate this kind of post but I should really not take any risks considering the toaster I call my computer.,ProgrammerHumour,9rbmme
+180,Programmers' never go to sleep,https://i.redd.it/i61kw3mvigs11.jpg,83,2018-10-16 07:46:49,4,"For a second I thought this was r/comedycemetery
+|God I wish I could wake up at 9am|>Programmers'
+
+&#x200B;
+
+Also, I sleep a lot",ProgrammerHumour,9ojd5v
+181,FTFY: git commit patterns,https://i.redd.it/qmjqdv0gr1r11.png,37,2018-10-09 05:05:11,3,Anyone have a high quality url?,ProgrammerHumour,9mk1re
+182,Truth !!,https://i.redd.it/68jcwszmovq11.jpg,170,2018-10-08 08:37:34,7,"[deleted]|most comforting thing I've heard in a while|Preach 💯🙌|I deadass have to google beginner syntax regularly, it’s no thing, especially while learning new languages. |I always forget which is implode and which is explode and which way the needle and haystack go on array_search. Also have to google all the different array_* to find the one I need. 
+
+This is PHP. My more experienced colleague does the same.|The other thing for new people is how many things more experienced developers discover as they go along that help with their job. As a PHP developer I don't know how much time I've saved with my linter, beautifier and XDebug.|Actual quote from a senior dev at work after I got one of our builds working
+
+&#x200B;
+
+""ok""
+
+""lol""
+
+""good because I wasn't finding any answers on the google""",ProgrammerHumour,9mbagj
+183,Absolutely obliterated,https://i.redd.it/sozf11dsamq11.jpg,97,2018-10-07 01:13:10,2,Exceptional.|Does anybody actually catch NullPointerExceptions lmao,ProgrammerHumour,9lyv7z
+184,I had a mini panic attack.,https://i.redd.it/nlyu5o2lp7q11.png,56,2018-10-05 00:00:11,11,"So did I, but that was because of the number of tabs you have open! |yea, i was suuuuper confused for nearly a minute, i just couldn't comprehend it|tip: you can remove the names of your bookmarks to leave their icons on the bar and free up room for more bookmarks|Might have been more scary if it just said something along the lines of ""database not found"".",ProgrammerHumour,9lejde
+185,Are those the names of flowers?,http://www.smbc-comics.com/comic/the-program,32,2018-10-02 02:36:24,1,Welp java garbage collection ruins this,ProgrammerHumour,9kkd0z
+186,Wooooshing on by with the halting problem,https://i.redd.it/v05fve1quln11.png,37,2018-09-28 19:34:10,1,"Um, this isn't programming, really...",ProgrammerHumour,9jn83l
+187,My compiler when I'm trying to code at work,https://www.reddit.com/r/programmerhumour/comments/9htmz9/my_compiler_when_im_trying_to_code_at_work/,32,2018-09-22 01:46:15,2,"Awhh bitch!|I literally hate working with computers because of this.  Nothing works like the box says.  IDE comes with a debugger? Nope, application exits with no error logs or messages when you try to debug (looking at you, Keil uVision).  It compiles and runs right in debugging? Oh, sorry, the flashing software opens in a window that isn't resizeable but has a billion buttons you need to click that are outside of the viewport (looking at you, Atmel FLIP).  
+
+Need a legacy software to analyze something? Haha gotcha there, too! It runs perfect but is microscopic on any monitor built after 1995!
+
+And finally, when chipsets don't execute instructions the way it is described in the vendor written spec sheets because there're on board circuits that you aren't supposed to be able to control (hello ARM and Intel 8086).  
+
+Sometimes I truly want to give up.  But the satisfaction of completing something is great, and then the cycle starts again.
+
+Honestly, fuck computers.",ProgrammerHumour,9htmz9
+188,RIP Python,https://i.redd.it/jx02op3yf4m11.jpg,43,2018-09-14 08:44:21,5,"I still can't believe this is a thing now.|r/animemes is leaking |Python needs to step up the game. Already ruby eliminated factory girl and working on removing blacklists.|cells at work, if anyones wondering",ProgrammerHumour,9folaq
+189,🔥 When a dev has gotten into a production system and ops shows up 🔥,https://i.imgur.com/IPjdxZU.gifv,52,2018-09-10 19:53:08,0,,ProgrammerHumour,9enkpo
+190,What Stupid Language is This?,https://www.reddit.com/r/programmerhumour/comments/9crktz/what_stupid_language_is_this/,15,2018-09-04 07:51:27,16,"Since some people pointed that out in the comment and it felt important to not mislead people: my post makes it sound like Caml Light and OCaml are terrible languages, which they are not. The tone was intended to be funny + a result of debugging frustration.
+
+I actually admit to like them even if sometimes they do weird things. (edit: or things which feel weird to me).   
+
+
+Edit: Someone pointed out that way more languages than I expected do this so I guess my expectation of how a modulo normally behaves, instead of how the language is designed is what was actually wrong.  |Can someone please explain this alien syntax to me???|ha! Titular.|Why is it ""stupid""? Because modulo result has the same sign as the dividend? And why is it ""essentially crappy haskell""?
+
+You can treat Caml Light as an introduction to OCaml. And OCaml is a different beast than Haskell. It doesn't have typeclasses, it has other polymorphism mechanisms. Thanks to that, its compiler is much faster than haskell's. It also has great type inference.
+
+Really, I don't see anything funny in this submission.",ProgrammerHumour,9crktz
+191,Installed firefox developer edition. What next?,https://www.reddit.com/r/programmerhumour/comments/9c2htp/installed_firefox_developer_edition_what_next/,0,2018-09-01 17:21:51,3,Hmmm...|Get a t-shirt with a shitty slogan.|just brag to everyone youre a web developer now,ProgrammerHumour,9c2htp
+192,That beautiful moment when you finish a code so you can close all the million slack overflow tabs,https://www.reddit.com/r/programmerhumour/comments/9akju9/that_beautiful_moment_when_you_finish_a_code_so/,62,2018-08-27 06:15:41,9,I feel satisfied from reading this|slack overflow? oh my. |Every morning after making a cup of coffee. Close all those tabs from yesterday that I don't need anymore. It's wonderful.|Exactly ! Its a great relief :),ProgrammerHumour,9akju9
+193,Isn't it !false?,https://i.redd.it/55g1so0i06i11.png,69,2018-08-25 09:45:14,5,"It's true, but not funny.|Next time this gets reposted, will “a joke I saw on Reddit” get added to the bottom?|Falsn't",ProgrammerHumour,9a44be
+194,My laptop keyboard fell for that old bitconnect scam while I was busy working,https://i.redd.it/8c9lfps8jnh11.png,44,2018-08-22 19:36:45,0,,ProgrammerHumour,99dmo0
+195,0 vs null,https://i.imgur.com/wWliSgv.png,117,2018-08-18 13:04:47,0,,ProgrammerHumour,989zj4
+196,...but it passed the automation tests!,https://i.redd.it/y4urlrrzbhg11.jpg,37,2018-08-16 21:40:24,1,https://imgur.com/x9TOuYP.jpg,ProgrammerHumour,97tmf3
+197,Why don't you take a seat over there?,https://i.redd.it/vuee4pg0ane11.png,93,2018-08-07 15:31:51,2,*FBI OPEN UP*|[deleted],ProgrammerHumour,95aawy
+198,How many of you do this?,https://i.redd.it/byoamjp4sjd11.jpg,120,2018-08-02 02:42:30,8,"Well, I did today, because CLion decided to fuck with my settings after updating. Took damn near the whole morning for me to figure out how to get my git/run buttons back.|Did you know you can spend years of your life configuring vim?  I though that was as good as it gets.  Then I tried emacs.   I got scared.|I have set up slack notifications for our ML engine, and i spent atleast 20 mintues picking a cool avatar image for the slack bot|I'm not getting payed for customizing my IDE, so... nope.|Cant change the damn colours on the arduino IDE dammit its shit.
+|I don't usually do this. But once I start, the day is lost.",ProgrammerHumour,93t2rk
+199,Test it if you need it,https://i.redd.it/6jnn4kw8w4c11.png,70,2018-07-25 23:34:14,0,,ProgrammerHumour,91u7tu
+200,"I was out of ideas, okay?",https://i.redd.it/a21xle8rimb11.png,85,2018-07-23 09:52:53,4,I think u would read som funky memory|Why just limit it there? Go all the way up to `Int64.MinValue`|Upvoting just because of title.,ProgrammerHumour,9140mq
+201,Started unchecking until I noticed the message,https://i.redd.it/vf8sqshhz2a11.png,144,2018-07-15 15:01:54,3,"And they want us to trust them for VPN?|r/madlads|That's nice, I might use that.",ProgrammerHumour,8z0kvf
+202,Been using a Mac for development lately. First day back to windows and this bad boy shows up right before deadline 🤦🏾‍♂️,https://i.redd.it/36fyvxl04j911.jpg,62,2018-07-12 20:10:32,12,"*slaps roof of Windows machine*
+This bad boy can fit so many spurious forced updates in it. |[deleted]|I call it the upgrade time sink. When you wanted to do work but you accidentally upgraded your machine instead.|Hahahaha.. ?|Even worse, it's running on a Lenovo IdeaPad. I have one at work and it's legitimately the worst laptop I've ever used|Who the fuck knows their way around a computer and hasn't downloaded windows 7 professional. Talk about an awesome fucking OS.|MacOS + Parallel Desktops (Windows 10) + Windows Linux Subsystem (Kali).
+
+That's my set up right now.  Oh and a windows 8.1 machine that has broken msupdate so no critical updates for meeeee",ProgrammerHumour,8yacbz
+203,Does this count?,https://i.redd.it/qbjx6ee9ic711.jpg,127,2018-07-01 19:49:25,6,"
+r/prequelmemes would love this. |I don't get it",ProgrammerHumour,8va6vx
+204,funny,https://cdn-images-1.medium.com/max/1600/1*zkeySR69oPO-PlQ5_dZ_0g.png,128,2018-07-01 07:29:07,4,"Freelancers can relate|Missing: give up|Jokes aside, a good code is one that other programmer can understand, thats all. Its not a witchcraft or black magic. |[xkcd.com/844/](http://xkcd.com/844/)",ProgrammerHumour,8v6qdj
+205,Trying to fix a bug in someone elses code...,https://i.imgur.com/egPjdMx.gifv,123,2018-06-26 07:19:59,3,"r/gifsthatendtoosoon|```
+while (true) {
+    water.amount = water.amount;
+}
+```|Legend has it that he still is emptying the buckets.",ProgrammerHumour,8tw4kk
+206,"We always make them say ""hello world"" but there is only one goodbye...",https://i.redd.it/mcei03pu67611.png,60,2018-06-26 00:53:01,1,mine doesnt have an eye,ProgrammerHumour,8ttc3a
+207,Communication,https://www.reddit.com/r/programmerhumour/comments/8rpn2z/communication/,27,2018-06-17 13:21:28,0,,ProgrammerHumour,8rpn2z
+208,Time to riot.,https://twitter.com/randal_olson/status/1004926545776005120,37,2018-06-08 17:40:03,2,"^The linked tweet was tweeted by [@randal_olson](https://twitter.com/randal_olson) on Jun 08, 2018 03:22:13 UTC (100 Retweets | 213 Favorites)
+
+-------------------------------------------------
+
+Time to riot. 
+
+[Attached photo](https://pbs.twimg.com/media/DfI3XU3V4AAWSF1.jpg:orig) | [imgur Mirror](https://i.imgur.com/Lo9wKQo.jpg)
+
+-------------------------------------------------
+
+^^• Beep boop I'm a bot • Find out more about me at /r/tweettranscriberbot/ •",ProgrammerHumour,8pjd8u
+209,Stolen from /r/memes,https://i.redd.it/a9nitrkwx9211.jpg,81,2018-06-06 05:51:16,3,"##r/memes
+---------------------------------------------
+^(For mobile and non-RES users) ^| 
+[^(More info)](https://np.reddit.com/r/botwatch/comments/6xrrvh/clickablelinkbot_info/) ^| 
+^(-1 to Remove) ^| 
+[^(Ignore Sub)](https://np.reddit.com/r/ClickableLinkBot/comments/853qg2/ignore_list/)|Information Cheesecurity|students",ProgrammerHumour,8ow2k5
+210,Are you a hard worker?,https://i.redd.it/p504pdcu7w011.jpg,72,2018-05-30 11:39:09,2,"It's called job security. Make everything harder than it has to be for anyone else to even begin to understand your code, then you are irreplaceable.",ProgrammerHumour,8n69u9
+211,When they ask you about the dress code.,https://i.redd.it/3nbd2kym3n011.jpg,91,2018-05-29 03:28:06,0,,ProgrammerHumour,8mtr5v
+212,This girl is destined to be a developer,https://youtu.be/pLvX7l_bWLA,37,2018-05-28 22:27:59,2,"Copying stackoverflow code but nothing is working, so you find your own half-assed solution.",ProgrammerHumour,8mrjus
+213,This very secure scafolding,https://imgur.com/yIzS6cQ,46,2018-05-22 13:07:35,2,[deleted],ProgrammerHumour,8l8864
+214,Assigning a property to itself in Swift 3.1,https://i.redd.it/8kxqs2n2lcw01.jpg,56,2018-05-07 08:19:41,3,"    value = true ? true : ""wtf""|What's the use case for setting a value to itself?",ProgrammerHumour,8hkdr9
+215,I edited this to rightfully shame my friends,https://i.redd.it/sscdjmftppu01.png,136,2018-04-29 02:23:53,15,"> stuio
+
+|You can just change it to ""He uses visual studio""|> he uses visual studio
+
+is enough",ProgrammerHumour,8fmo9m
+216,This just got me,https://imgur.com/fcpOGSh,94,2018-04-11 10:10:08,1,"😂😂😂
+
+😳
+
+😔
+
+☠️🔫",ProgrammerHumour,8begvp
+217,Brainded UI,https://i.redd.it/4ujzjx6zfjo01.jpg,147,2018-03-29 20:05:09,2,"[deleted]|That exact gif was posted in this sub about a year ago, so I call bullshit",ProgrammerHumour,881r11
+218,Accurate,https://www.reddit.com/r/anime_irl/comments/87jnox/anime_irl/?utm_source=reddit-android,12,2018-03-28 05:11:01,0,,ProgrammerHumour,87nao1
+219,saw this in berlin today,https://i.imgur.com/96bVA8r.jpg,81,2018-03-27 00:19:41,3,"https://medium.com/@Flyingmana/what-is-taketheexit-ecc8e95034eb|Yeah, they are all over Berlin atm.
+|Approximately 2π/5
+
+~~Quick mafs~~",ProgrammerHumour,87bltj
+220,Sololearn knows where to put it's Johns...,https://imgur.com/vB28GZ8,54,2018-02-22 11:11:27,4,The improper use of an apostrophe in both the title and comment is frustrating.,ProgrammerHumour,7zcjxi
+221,My local supermarket stocks the Raspberry Pi magazines in the cooking section,https://i.redd.it/d5875o9kxfh01.jpg,206,2018-02-21 09:40:46,3,It’s definitely the tastiest microcomputer ,ProgrammerHumour,7z2ona
+222,we've all seen this,https://i.redd.it/5redg7afiuf01.jpg,113,2018-02-13 02:26:40,6,"Pfah, only 4 9s. You are like a little baby. |Hardly programming.. also I’ve done this just because I wanted to be absolutely sure, that whatever happened, my login box stay on top. :)|A good guideline for z-index 'breakpoints' can be found with Bootstrap, whether you use it or not: https://v4-alpha.getbootstrap.com/layout/overview/#z-index|No, you need 999999
+
+Or if you really want to make it on top of everything, 2147483647|Why not just (n-1)?",ProgrammerHumour,7x3y5t
+223,This used to be my favorite sub.,https://www.reddit.com/r/programmerhumour/comments/7x5gy1/this_used_to_be_my_favorite_sub/,22,2018-02-13 06:02:51,5,"What? Geographic location? Since when was there a rule about that?|vpn ya dummy
+
+edit: oh wait... suck a dicc troll ",ProgrammerHumour,7x5gy1
+224,Chips don't lie,http://www.reddit.com/r/OldSchoolCool/comments/7uckxy/-/dtjqmm7,27,2018-02-01 11:00:56,0,,ProgrammerHumour,7ugjpv
+225,Someone's a bit salty... Lol,https://i.redd.it/nd9pvsahw9401.png,183,2017-12-16 17:22:43,5,I've never programmed in Swift but Objective-C is disgusting|Preach!,ProgrammerHumour,7k6myu
+226,Artificial Intelligence in a nutshell,https://i.redd.it/0i38vo8r6h201.png,154,2017-12-07 15:44:50,4,"There is the make paper snowflake cutouts at the end tho...|it's not machine learning, it's just looking for your search in the page",ProgrammerHumour,7i5gzi
+227,The laundry business just got disrupted!,https://imgur.com/brRXl2C,64,2017-11-09 02:57:46,7,[deleted]|Pantsquality++|Where’s my machine learning pants ?|r/madlads,ProgrammerHumour,7bojv6
+228,The QR code on the inside of the lid of my girlfriend's Chinese drink leads to Apache 8 server documentation,https://i.redd.it/knp6otycfowz.jpg,191,2017-11-08 09:40:48,7,"http://ncksf.com/?nxkpNYCF8118  
+  
+It's just a bare install of apache that hasn't been configured yet.|OP just had to mention his girlfriend|Right, you have a girlfriend then?|Could be a phishing attack",ProgrammerHumour,7biw26
+229,I think they meant $(email) ?,https://i.redd.it/qj5wjgk121vz.png,78,2017-10-31 02:00:28,5,"Your Apple ID **is ($email) was** used...
+
+what is this english? phishing email?|($email) would be correct as it is to print the variable email, not execute the command email|`$(comment)`",ProgrammerHumour,79qi6j
+230,What do you call a software developer on a bike getting chased by a car?,https://www.reddit.com/r/programmerhumour/comments/79l947/what_do_you_call_a_software_developer_on_a_bike/,41,2017-10-30 09:00:03,2,Or a speed bump. ,ProgrammerHumour,79l947
+231,Error 404: Building not found,https://i.redd.it/gop396fbygtz.jpg,109,2017-10-23 05:19:50,2,This isn’t funny nor does it have anything to do with programming. Also this is a repost from a good while ago|Lool,ProgrammerHumour,783xik
+232,"Hey now, you're an all star",https://i.redd.it/7w53dnv4oysz.jpg,93,2017-10-20 15:50:44,3,"Hey now, you're an all star
+
+all*
+
+So... I'm a pointer to all???",ProgrammerHumour,77l7jd
+233,Using swap file is like using small spare tire,https://www.reddit.com/r/programmerhumour/comments/77149t/using_swap_file_is_like_using_small_spare_tire/,21,2017-10-18 01:19:54,2,*tyre,ProgrammerHumour,77149t
+234,C++ : 2D Arrays : Computed Aided Analysis,https://www.youtube.com/attribution_link?a=HN43olMyR7M&u=%2Fwatch%3Fv%3D7tBAYEjn4Zg%26feature%3Dshare,3,2017-10-11 22:10:58,0,,ProgrammerHumour,75qai4
+235,C++ Programming Tutorials - While loop - Computer Aided Analysis,https://www.youtube.com/attribution_link?a=LlF2C1iyhKc&u=%2Fwatch%3Fv%3D3_gs8MVxkZw%26feature%3Dshare,0,2017-10-08 08:38:02,0,,ProgrammerHumour,74zeie
+236,Program to Print 1 to 5 Numbers in C++ Using While Loop - Computer Aided...,https://www.youtube.com/attribution_link?a=gHVoP5Ym668&u=%2Fwatch%3Fv%3DTTSGKoYyStU%26feature%3Dshare,3,2017-10-07 12:34:47,3,That bracket placement hurts me,ProgrammerHumour,74tgzy
+237,Marks for logging errors: 10/10,https://i.redd.it/b7r52tidr6pz.jpg,35,2017-10-01 14:46:35,0,,ProgrammerHumour,73kpq7
+238,sounds reasonable,https://i.redd.it/br59qgz673pz.jpg,41,2017-10-01 02:48:07,2,Makes the boilerplate more seeable|I just started doing this. Got tired of thinking of a commit message everytime.,ProgrammerHumour,73hkkw
+239,Found on my University's website,https://i.redd.it/sc2fb0ryhrmz.png,66,2017-09-19 09:19:41,1,Ignore this reply. It's buggy! ~> (0),ProgrammerHumour,710f96
+240,grand dad lol,https://i.redd.it/1e80gsvug2mz.png,0,2017-09-15 21:08:11,0,,ProgrammerHumour,70amgi
+241,How to tell that a developer plans on quitting their job,https://i.redd.it/g3ufwbdxxejz.png,106,2017-09-02 11:53:03,4,"More contributions in the weekend (i.e. free time), so like a private project?|This is exactly what my GitHub looks like....",ProgrammerHumour,6xk7gs
+242,"Hey you're a computer science major, right?",https://www.reddit.com/r/programmerhumour/comments/6tnden/hey_youre_a_computer_science_major_right/,82,2017-08-14 21:32:50,6,"Despite having a degree in computer science, I haven't had the family trust since my father told me his computer was broken. 
+I told him I'd fix it.
+I pressed the on button, nothing happened, I said ""yep, that's broken"".|/r/talesfromtechsupport|You think I'm kidding. Be useless from the start or else for the rest of your life be free tech support for inane bullshit and emotional support for illiteracy.
+Problem is free range tech support you actually pay for more than not end up being extortionists for simple to fix shit they give bad expensive or advice or act like bad mechanics who cost a fortune for simple shit.
+Set up your reload with a trustable source of support if you can then never deal with it again. The shanks are real and they prey on old and young people.",ProgrammerHumour,6tnden
+243,My phone agrees with this subreddit.,http://imgur.com/rxbAcq5,68,2017-08-11 11:55:45,4,"Why tho|I see but i think if one tries to make a full project on javascript alone then its probabably based on ignorance, my point is:
+Blame the developer",ProgrammerHumour,6szd9d
+244,Fun with IE,https://imgur.com/hNEEqtg,38,2017-08-08 22:56:13,3,"""wow lol IE sux""|Just use indexOf like any sane person|[GIFV link](https://i.imgur.com/hNEEqtg.gifv)
+
+---
+
+_^I ^am ^a ^bot. ^[FAQ](https://www.reddit.com/r/livven/wiki/gifv-bot) ^// ^[code](https://github.com/Livven/GifvBot)_",ProgrammerHumour,6sf174
+245,Google punned me.,https://i.redd.it/gl74v5qtkjdz.png,44,2017-08-03 21:03:23,0,,ProgrammerHumour,6rd2p1
+246,This sign in our school computer lab,https://i.redd.it/u3ng4thd60dz.jpg,130,2017-08-01 03:48:33,1,the cringe is real,ProgrammerHumour,6qrwu8
+247,ERROR: Too many errors,https://imgur.com/KIAY0Yi,161,2017-07-31 06:43:25,8,"This was probably my uni assignment. |http://i.imgur.com/vIlHuDY.jpg|I've had +2,000 errors, these are rookie numbers :P|Screenshot pls|Me_irl|If if is the true form of msvc, it will crash|IE!??!",ProgrammerHumour,6ql8fb
+248,Figured this subreddit would appreciate my t-shirt,https://i.redd.it/pkjx90zztlbz.jpg,54,2017-07-25 02:30:06,0,,ProgrammerHumour,6pbcte
+249,One Mistake...,https://www.reddit.com/r/programmerhumour/comments/6p8tsa/one_mistake/,24,2017-07-24 20:17:00,1,"just abort your code
+
+or refactor the baby",ProgrammerHumour,6p8tsa
+250,Why do JavaScript Developers need glasses?,https://www.reddit.com/r/programmerhumour/comments/6p06nw/why_do_javascript_developers_need_glasses/,39,2017-07-23 13:17:01,6,"Alternatively: Why did the programmer use Visual Studio? So he can See Sharp. |Would make more sense if you said ""Java""",ProgrammerHumour,6p06nw
+251,Windows 10 made from HTML and JavaScript [xPost from r/ofcoursethatsathing],https://codepen.io/MohamedYahya/pen/GEbwEW,40,2017-07-23 04:51:21,1,"X-Post referenced from [/r/ofcoursethatsathing](http://np.reddit.com/r/ofcoursethatsathing) by /u/sonrad10  
+[Windows 10 made from HTML and JavaScript](http://np.reddit.com/r/ofcoursethatsathing/comments/6oy2np/windows_10_made_from_html_and_javascript/)
+*****  
+  
+^^I ^^am ^^a ^^bot. ^^I ^^delete ^^my ^^negative ^^comments. ^^[Contact](https://www.reddit.com/message/compose/?to=OriginalPostSearcher) ^^| ^^[Code](https://github.com/papernotes/Reddit-OriginalPostSearcher) ^^| ^^[FAQ](https://github.com/papernotes/Reddit-OriginalPostSearcher#faq)",ProgrammerHumour,6oy4fg
+252,Only a little more than 5 months away!,https://i.redd.it/j1ee60zvz0bz.jpg,205,2017-07-22 04:25:41,5,"This is good. I'm stealing this.|You literally sorted the posts by top - all time, took the top post and reposted it.|I feel like it ought to be table, not database.",ProgrammerHumour,6orig0
+253,Not sure if this belongs here but this is hilarious.,https://i.redd.it/k6ud3xiov0bz.jpg,74,2017-07-22 04:02:07,0,,ProgrammerHumour,6ordjd
+254,Still the best line of code ever written,https://github.com/mperham/sidekiq/blob/master/lib/sidekiq.rb#L52,44,2017-07-22 02:44:39,0,,ProgrammerHumour,6oqwph
+255,Wow this link will help. Arg! 404.,https://i.redd.it/idr01izw5yaz.png,23,2017-07-21 18:54:08,1,i think they just copy pasted the link in the url bar even though it wasn't the link to the page,ProgrammerHumour,6onviw
+256,How many programmers does it take to change a lightbulb?,https://www.reddit.com/r/programmerhumour/comments/6obkb0/how_many_programmers_does_it_take_to_change_a/,63,2017-07-20 02:42:56,1,[deleted],ProgrammerHumour,6obkb0
+257,I'm pretty good with Python and that language where you randomly put & or * in front of your variables until the code stops crashing,https://www.reddit.com/r/programmerhumour/comments/6o9fcz/im_pretty_good_with_python_and_that_language/,98,2017-07-19 21:31:16,2,"This made my day |Oh, C++, when will you make any sense?",ProgrammerHumour,6o9fcz
+258,When your team goes all out on the retro,https://i.redd.it/wcpv5yrtzcaz.jpg,18,2017-07-18 19:42:36,0,,ProgrammerHumour,6o100m
+259,Assert symbols are stripped from prod.,https://i.redd.it/mp24izcmm9az.jpg,18,2017-07-18 08:23:15,0,,ProgrammerHumour,6ny1ny
+260,Arrays start at ????????,https://i.redd.it/caa99gpq37az.jpg,24,2017-07-17 23:53:53,3,"🅱️|0|Added in the latest Java update
+var int b = 0",ProgrammerHumour,6nuygl
+261,Programmer fix,https://www.reddit.com/r/programmerhumour/comments/6np2u5/programmer_fix/,12,2017-07-17 03:50:04,0,,ProgrammerHumour,6np2u5
+262,"Programmer Humor, Comedy Theory, and Anime",https://www.youtube.com/watch?v=JGjt0zfYhUk,8,2017-07-17 00:11:32,0,,ProgrammerHumour,6nntvw
+263,Binary tree IRL,https://i.redd.it/f05v11vdxk9z.jpg,105,2017-07-14 21:19:35,2,7|Why is it upside down?,ProgrammerHumour,6n9vch
+264,Turn JavaScript code into Emoji using Webpack,https://github.com/Mechazawa/emojify-webpack-plugin/,22,2017-07-13 20:01:04,4,🤔|👌😍|🅱️eautiful|r/ofcoursethatsathing,ProgrammerHumour,6n1ykb
+265,Engineers in their natural habitat. Seen in NY,http://imgur.com/IHc2Buo.jpg,97,2017-07-13 05:46:32,3,"i honestly hate this shit, it just perpetuates the idea that engineers are pasty nerdy weirdos when that's completely not true|I liked it. Quite humorous",ProgrammerHumour,6my2ph
+266,Nope.js,https://i.redd.it/z9o4cev2o79z.jpg,83,2017-07-13 00:43:42,0,,ProgrammerHumour,6mw757
+267,Comment something you can say during sex and while you are programming,https://www.reddit.com/r/programmerhumour/comments/6myn78/comment_something_you_can_say_during_sex_and/,17,2017-07-13 07:35:01,14,"Worst 10 hours of my life|You need to pull first. |rich nose rhythm materialistic elastic cagey beneficial practice far-flung dime
+
+ *This post was mass deleted and anonymized with [Redact](https://redact.dev/home)*|Is this secure?|Jesus, could've pulled that off a little cleaner eh?|Why won't it work?|Eh.. I'll clean it up later|fuck me|Of course I'll commit as soon as I finish this task. Even if it only takes 30 seconds. Trust me.
+
+*afterwards*
+
+About what I said earlier..|It didn't work, let's try again|I wasn’t defensive enough|Your comments are appreciated.",ProgrammerHumour,6myn78
+268,Its trendy to go against convention.,https://i.redd.it/2pwqx49r7k8z.png,45,2017-07-09 17:53:10,1,\#include?  ,ProgrammerHumour,6m762h
+269,Les Modulanios have escaped.,https://i.redd.it/ek1azsv4wk8z.jpg,15,2017-07-09 20:07:53,0,,ProgrammerHumour,6m7r63
+270,How to troll a webdesigner.,https://i.redd.it/ru91rp2vjg8z.jpg,72,2017-07-09 05:31:58,3,You forgot the !imoortant|Or how to make a website that looks like it was from the 90's|M ^M ^^M ^^^M ^^^^M ^^^M ^^M ^M M,ProgrammerHumour,6m4dql
+271,Only real programmers know this,https://i.redd.it/s00a87vfh68z.jpg,151,2017-07-07 19:40:38,0,,ProgrammerHumour,6ltvzy
+272,I..I don't get it,https://i.redd.it/gnkg7w60h98z.jpg,18,2017-07-08 05:43:30,3,"It's because ""goth"" people have a stereotype that they ""like pain"".  Stapling your self to a chicken, enough to where the chicken could sustain your weight and carry you, could be rather painful. The punch line is just a set up to ""why did the chicken cross the road""",ProgrammerHumour,6lxsen
+273,Encryption,https://i.redd.it/5r6djbaipw7z.jpg,172,2017-07-06 10:48:04,0,,ProgrammerHumour,6ljojb
+274,To become the worlds best hacker...,https://i.redd.it/6zrbo3l5zw7z.jpg,25,2017-07-06 11:42:05,2,"*Reply from ""BillyTheHaxxer""*
+""Where do I sign up???!?""|Poor little guy whose phone number is visible anyway...
+
+Also at the end he doesn’t know that even a powerful computer may hack a password in years...
+
+BUT he has a project, and he believes in that... Maybe he will have fun anyway.",ProgrammerHumour,6ljwza
+275,Found this credit card number incrementer in the wild,https://i.redd.it/ctq17a0fjv7z.gif,59,2017-07-06 06:53:26,5,"Found this on a seller's website. I realise I probably should've clicked the up/down buttons with the mouse for the gif instead of using the up key... Oops.|Why can't people realize this is just a common trait of `input type=number`? I mean sure, the arrows are a bit silly, but it's just a little bit of front end validatiion. Someone just didn't realize you could style out the arrows. |why|I wonder if they are calculating the checksum.",ProgrammerHumour,6lih0z
+276,C&Java,https://www.reddit.com/r/programmerhumour/comments/6l70wp/cjava/,18,2017-07-04 18:52:26,3,"Shouldn't it be the other way around?|Mr. Java: ""I cannot C you anymore, you have no class""",ProgrammerHumour,6l70wp
+277,The volume slider thing has gotten out of hand.,https://www.youtube.com/watch?v=eq-XAviy-7w,124,2017-07-03 22:41:30,5,Someone at the BBC has too much time on their hands.|This is fucking gay. Fucking lamestream media gay gay Gary,ProgrammerHumour,6l1765
+278,مفاااااجأه تحميل جميع صيغ الفيديو من اليوتيوب بدون برامج (HD),https://www.youtube.com/watch?v=HQaZuqTDsa8,0,2017-07-05 04:49:10,2,what the hell is this,ProgrammerHumour,6lafus
+279,How to hide a file into an Image,https://youtu.be/ZD4d6oZbFn4,15,2017-07-03 16:37:37,1,why?,ProgrammerHumour,6kz9et
+280,Someone in the band was a low key programmer and wanted to dereference the name of the band.,https://i.redd.it/r2sozk05r17z.jpg,40,2017-07-02 02:41:57,0,,ProgrammerHumour,6kphuv
+281,It's the little things like this that get me through the day.,https://i.redd.it/9ka6l2qn1w6z.png,43,2017-07-01 07:30:24,0,,ProgrammerHumour,6kkebi
+282,Taken out of context this sounds really dumb,https://i.redd.it/y0l2xxsadt6z.jpg,191,2017-06-30 22:30:07,2,"""Learning Python"" is a book by Mark Lutz about doing just that. The quote is still funny.",ProgrammerHumour,6kh7pk
+283,Shooting yourself in the foot in various programming languages,http://www.datasciencecentral.com/profiles/blogs/shooting-yourself-in-the-foot-in-various-programming-languages,32,2017-07-01 05:22:35,0,,ProgrammerHumour,6kjrkv
+284,"Yea, let me share this and let everyone know that I changed the password.",https://i.redd.it/wypajf2fos6z.jpg,67,2017-06-30 20:10:49,1,Sean Spicer?,ProgrammerHumour,6kgbsr
+285,Super hardcore hacking!,https://i.redd.it/t9sshwl0wi6z.jpg,50,2017-06-29 11:15:25,3,"Are you telling me you don't write your calling-scripts in Unity?|I've actually seen this video. iirc, its a super short script written in C|Not worthy of media",ProgrammerHumour,6k6ec8
+286,Companies interconnection. Credits nixcraft,https://i.redd.it/401syh61yf6z.jpg,98,2017-06-29 01:21:23,2,Alright why has no one commented? This shit is hilarious |The oracle one got a giggle out of me. ,ProgrammerHumour,6k33yz
+287,Nothing says full stack developer like Hacker Typer on your web browser.,https://i.redd.it/6z1e5hx5nf6z.jpg,68,2017-06-29 00:20:41,5,"Ah nugget the point and look interested trick, done many a-time at school|[deleted]|[deleted]|That ear piercing...",ProgrammerHumour,6k2ov7
+288,Test,https://www.reddit.com/r/programmerhumour/comments/6k4q4p/test/,22,2017-06-29 05:41:05,3,Test failed successfully |Passed|New feature for Reddit: unit tests for posts,ProgrammerHumour,6k4q4p
+289,Found in a company wide testing tool,https://i.redd.it/z8tmv4k6zd6z.png,39,2017-06-28 20:05:43,3," [Full code](https://pastebin.com/jDfFX9y6). Looks like whoever programmed this one up had a Shaolin DVD Rip with a subtitle file 7 seconds off. What better place to fix it than in a tool the whole company can see the source of!
+
+Honorable mention to button11 not being renamed, this actually went all the way up to button 236 like this...|I'd take this down if I were you. No amount of karma is worth losing employment. ",ProgrammerHumour,6k0xm0
+290,Memz.js : A Javascript Library to spread Internet Culture,https://github.com/gurvanrenault/memz.js,9,2017-06-27 01:40:24,4,[deleted],ProgrammerHumour,6jnmn7
+291,Douche guy - downloads unity personal edition to make games only uses assets,http://i.imgur.com/tFHBD9k.jpg,20,2017-06-26 05:39:42,10,"I don't get it...
+",ProgrammerHumour,6jhp0q
+292,xkcd: Refresh Types,https://m.xkcd.com/1854/,27,2017-06-25 15:03:10,0,,ProgrammerHumour,6jdimn
+293,xkcd: Exploits of a Mom,https://xkcd.com/327/,20,2017-06-23 22:52:22,1,This one is a bit of a classic,ProgrammerHumour,6j2n9y
+294,How the last few weeks of a project look,https://i.redd.it/gme4oxpxy95z.jpg,27,2017-06-23 04:11:36,1,Oh! I see the suicide booth has been invented!,ProgrammerHumour,6ix4dk
+295,Compilers don't settle for less,https://i.redd.it/aak6kfo7d55z.jpg,266,2017-06-22 12:42:42,6,"symbol 'cout' could not be resolved|Weak, why make wantToHangOut a string when you could make it a datatype that doesn't take up a lot of memory?|Woah no I thought I was in cringe for a second.|Christine(""Absolutely!!!"");",ProgrammerHumour,6irxft
+296,When you are truly evil,https://i.redd.it/gxymd1ois85z.jpg,7,2017-06-23 00:13:52,0,,ProgrammerHumour,6ivjr7
+297,When he big AF but ain't know how to use it,https://i.redd.it/3trq1okpd45z.jpg,10,2017-06-22 09:23:48,0,,ProgrammerHumour,6ir2o5
+298,Taken from r/comics but I figured it fits in here too,https://i.redd.it/2gsaht56c15z.jpg,41,2017-06-21 23:09:46,2,"not really, this has 0 reference to java as software.",ProgrammerHumour,6inf2h
+299,What is your best meta joke?,https://www.reddit.com/r/programmerhumour/comments/6irw6t/what_is_your_best_meta_joke/,2,2017-06-22 12:33:48,2,this post|This did not take off.,ProgrammerHumour,6irw6t
+300,YouTube's what's new update message,https://i.redd.it/f8azbmh7fq4z.jpg,90,2017-06-20 10:27:17,4,"It always brings joy to me whenever developers and programmers within a corporate setting take a softer and slightly humorous approach to their tasks at hand. |Better than the generic ""bug fixes and performance improvements"" its had on Android since forever.",ProgrammerHumour,6ibwzg
+301,My gender is non-binary.,https://www.reddit.com/r/programmerhumour/comments/6icxqi/my_gender_is_nonbinary/,34,2017-06-20 14:54:46,1,[deleted],ProgrammerHumour,6icxqi
+302,Not quite,https://i.redd.it/lqclp2me1l4z.jpg,66,2017-06-19 16:20:56,8,"""Unilad Tech"" what do you expect|If only it really was Java...
+
+Then I'd have been in here to say they should have said ""the floor *is* Java.""|I'm getting tired of all these people who think they're cool by using some random code they don't know anything about in images and videos... Cringe.
+(Just to clear up, I'm not mad at you)|O h. L o r d. N o|Oh come on, the second image literally has three php tags in a row",ProgrammerHumour,6i5na2
+303,Duplication makes those codes looks like brother beasts,http://imgur.com/bc6DFMz,10,2017-06-19 23:46:40,0,,ProgrammerHumour,6i88ve
+304,When you write the code vs when you run it,https://i.redd.it/kb9jkbcsng4z.jpg,157,2017-06-19 01:37:28,3,Sauce?,ProgrammerHumour,6i1q2s
+305,00000001 - Here is one bitcoin.,https://www.reddit.com/r/programmerhumour/comments/6hvtd8/00000001_here_is_one_bitcoin/,50,2017-06-18 02:37:53,9,That's 1.000881079*10^10 in binary. Good luck,ProgrammerHumour,6hvtd8
+306,Happens everytime,http://imgur.com/MMrsfbZ,46,2017-06-16 22:58:06,0,,ProgrammerHumour,6hnzyh
+307,90s web devs will know what I'm talkin' 'bout,https://i.redd.it/6hvok4qdvx3z.jpg,62,2017-06-16 10:26:09,2,Syntax highlighting is for the weak. |I have notepad++ but sometimes when I'm bored I try to use notepad. Then I cry.,ProgrammerHumour,6hkgiy
+308,Programmer Posture is Perfection,https://i.redd.it/pvx9a6lbuv3z.jpg,170,2017-06-16 03:36:39,2,Why... is he programming at an apple Genius Bar? |Get this guy into emergent system programming pronto! ,ProgrammerHumour,6hiby7
+309,/r/programmerhumor lately,https://i.redd.it/m99olx46st3z.jpg,35,2017-06-15 20:41:02,1,R/programmerhumor,ProgrammerHumour,6hfls4
+310,Pro tip: how to make your coworkers love you / how to absolutely kill code review,https://i.redd.it/gswwvhwztm3z.jpg,86,2017-06-14 21:18:50,5,[deleted],ProgrammerHumour,6h8cil
+311,When you're bad at Python,https://i.redd.it/6ul4sq5oci3z.jpg,17,2017-06-14 06:14:36,2,"     if bad_at_dark_souls = True:
+       print ""Gut Gud""|/r/screenshotsarehard",ProgrammerHumour,6h44to
+312,Somebody should make a GIT manager and name it Shiggles.,https://www.reddit.com/r/programmerhumour/comments/6gvwdc/somebody_should_make_a_git_manager_and_name_it/,35,2017-06-13 04:33:59,1,For the shit giggles. ,ProgrammerHumour,6gvwdc
+313,me irl,https://i.redd.it/o0fa0najfp2z.jpg,211,2017-06-10 04:58:58,4,"In all honesty, do you know HOW MANY robots got dicked over JUST BECAUSE I FORGOT THE C U R L Y B O I |Or a dot and a dash (;) feeling left out|VVVYYYY BAD CURLYBOI!!!",ProgrammerHumour,6gc2o3
+314,Volume slider,https://www.reddit.com/r/programmerhumour/comments/6g8s25/volume_slider/,3,2017-06-09 20:04:57,0,,ProgrammerHumour,6g8s25
+315,Dont't get it? The geeks do!,https://i.redd.it/q1xrazxaff2z.jpg,44,2017-06-08 19:19:54,4,More like /r/fellowkids|x-post r/fellowkids |*shudder*,ProgrammerHumour,6g1217
+316,Should I bother getting this? (Serious) didn't know where else to ask! Thanks peeps!,https://i.redd.it/7egml9fqbf2z.jpg,7,2017-06-08 18:59:50,3,"[deleted]|If you need the certs, that's a pretty good deal IMO.  A lot of places require the CompTIA certs for even basic networking and support roles, so it's worth it if you have an inclination in that direction.  IDK how valuable Cisco certs are anymore, I've been out of system administration for many years now, but I do still see a ton of my LinkedIn friends getting them, so they must be worth something.  
+",ProgrammerHumour,6g0y6a
+317,This sign in our school computer lab,https://i.redd.it/3vo7f1prh82z.jpg,119,2017-06-07 20:01:21,5,That's a bit counter-intuitive isn't it?|Until you use a template which already contains errors.,ProgrammerHumour,6fts2l
+318,"So, you enjoy running login shells as root? What a coincidence...",https://www.reddit.com/r/programmerhumour/comments/6ftplw/so_you_enjoy_running_login_shells_as_root_what_a/,37,2017-06-07 19:49:52,3,I'm definitely stealing this one.|\*badum tssss*|the door is that way,ProgrammerHumour,6ftplw
+319,Me fixing my network,http://imgur.com/hw8l6GH,23,2017-06-07 11:27:15,1,"[GIFV link](https://i.imgur.com/hw8l6GH.gifv)
+
+---
+
+_^I ^am ^a ^bot. ^[FAQ](https://www.reddit.com/r/livven/wiki/gifv-bot) ^// ^[code](https://github.com/Livven/GifvBot)_",ProgrammerHumour,6frl2r
+320,Lets End This! Tabs or Spaces?,https://www.reddit.com/r/programmerhumour/comments/6fpu6r/lets_end_this_tabs_or_spaces/,17,2017-06-07 05:34:32,26,"Tabs|Spaces entered by hitting tab|Tabs|Tabs|tabs
+|[deleted]|Tabs|Tabs|To reduce spam, you should have made a comment for each option and just had people vote.|Tabs|Tabs 😁|Tabs |Tabs|:%s/\t/    /g|Spaces|Spaces|market live whole snails chubby spark payment offend arrest butter
+
+ *This post was mass deleted and anonymized with [Redact](https://redact.dev/home)*|Tabs|I think I'll make a custom compiler that berates you for using spaces. COSE SPACES TAKE MORE SPACE! 
+Pun not intended.
+",ProgrammerHumour,6fpu6r
+321,Python vs C,https://twitter.com/zurgbob/status/871632561365065728,58,2017-06-06 18:01:37,5,"My thougths exactly :)|[Streamable mirror](https://streamable.com/u25dw)   
+___   
+   
+I'm a bot.   
+If you have any suggestions you can message my creator here: [PM](https://www.reddit.com/message/compose?to=eRodY&subject=[TwitterToStreamable]%20-%20t3_6flgg9)|Those bloody knuckles speak in volumes.|Just no|Completing a semester of Python on Turdsday.
+
+Can confirm.
+
+Need to learn C's structure and the basics in the API, and purge all memory of indentation errors and return to the wonderful land of forgotten semicolons;",ProgrammerHumour,6flgg9
+322,man.fap();,https://i.redd.it/w178qzj9mu1z.jpg,97,2017-06-05 21:21:26,3,"I think putting the fap in an else statement is not accurate, you should move it to under the conditional. We both now the man fapped either way.",ProgrammerHumour,6ff0il
+323,My bank's mobile app gives a tough choice in its search refinement,https://i.redd.it/qo0vvlemcw1z.jpg,29,2017-06-06 03:10:58,2,"dazzling fear gaping rhythm squash unique fragile hobbies fearless point
+
+ *This post was mass deleted and anonymized with [Redact](https://redact.dev/home)*",ProgrammerHumour,6fhcal
+324,"As a Comp Sci Major, I should have read the first clearly. And I also should have used my logic. But obviously didn't lol",https://i.redd.it/imdskn7naw1z.jpg,29,2017-06-06 02:59:53,2,"Expected: )|frighten bored groovy seemly fact chief bewildered violet panicky squeeze
+
+ *This post was mass deleted and anonymized with [Redact](https://redact.dev/home)*",ProgrammerHumour,6fh9u6
+325,Burned by girlfriend :/,https://i.redd.it/c50jm64g6w1z.png,26,2017-06-06 02:36:26,2,Cross post from devRant :) |Fix your error bro,ProgrammerHumour,6fh4ic
+326,© xkcd,https://i.redd.it/a2muuhextm1z.jpg,256,2017-06-04 19:10:08,5,EDIT: Solved it.|Classic repost but it makes me smile every time.|I started only 2 weeks ago. I can believe how true this is|It's like looking in a mirror|The twist is that he was DenverCoder9 the whole time,ProgrammerHumour,6f7dps
+327,On the topic of sliders...,https://gyazo.com/e1f91d8c8ad40bc58b0d09218c9e4939,15,2017-06-04 07:41:42,2,"Hi, I'm a bot that links Gyazo images directly.
+
+https://i.gyazo.com/e1f91d8c8ad40bc58b0d09218c9e4939.mp4
+
+^^[Source](https://github.com/Ptomerty/GyazoBot) ^^| ^^[Why?](https://github.com/Ptomerty/GyazoBot/blob/master/README.md) ^^| ^^[Creator](https://np.reddit.com/u/derpherp128) ^^| ^^[leavemealone](https://np.reddit.com/message/compose/?to=Gyazo_Bot&subject=ignoreme&message=ignoreme)|escape governor fearless boat unpack truck tan foolish nine caption
+
+ *This post was mass deleted and anonymized with [Redact](https://redact.dev/home)*",ProgrammerHumour,6f4zyv
+328,Mark zukeberg,https://www.reddit.com/r/programmerhumour/comments/6ej1ax/mark_zukeberg/,0,2017-06-01 05:30:35,4,Could someone explain this? For a friend obviously...,ProgrammerHumour,6ej1ax
+329,Web developer,http://i.imgur.com/PN1CMHm.jpg,81,2017-05-30 09:13:07,0,,ProgrammerHumour,6e4yju
+330,Signs of a PC gamer,http://i.imgur.com/Dbkwo40.jpg,27,2017-05-30 14:20:06,2,How does this fit the sub in any way,ProgrammerHumour,6e65pj
+331,Typing habit,https://www.reddit.com/r/programmerhumour/comments/6dzd9r/typing_habit/,12,2017-05-29 15:09:41,1,[deleted],ProgrammerHumour,6dzd9r
+332,The tiling in my hotel room looks like a really proficient github user.,https://i.redd.it/l2ltlj2lw90z.jpg,150,2017-05-28 22:37:45,2,Put this photo on ur CV|This would actually be a GitLab user since it's blue.,ProgrammerHumour,6duvhv
+333,Making the perfect instantiable class,https://i.redd.it/6zolcom3k90z.png,73,2017-05-28 21:28:02,0,,ProgrammerHumour,6duhw6
+334,Czech Republic,https://www.youtube.com/attribution_link?a=8kT2u6vRLZ8&u=%2Fplaylist%3Flist%3DPLC790016B6FCC4FA3,2,2017-05-29 07:38:29,0,,ProgrammerHumour,6dxmsv
+335,"I'm not the only one, right?",https://www.reddit.com/r/programmerhumour/comments/6dauf9/im_not_the_only_one_right/,13,2017-05-25 22:17:25,3,"I use mulecase which means I choose arbitrary capitalization and stubbornly refuse to ever change it. 
+
+You might try that in the future |I can't say that I've ever made that mistake, but that's funny as hell.  Quit worrying about it, what's done is done, and if nothing else, you always have a funny story to tell.  If she was that uptight, you probably don't want to be working her anyways.  It was an honest mistake, and if they couldn't laugh it off, I wouldn't want to work with them anyways. |Great story thanks for sharing",ProgrammerHumour,6dauf9
+336,Found this on the UK Companies House website,https://i.redd.it/uwsbrcguzgzy.jpg,34,2017-05-24 21:24:22,1,Hey little bobby droptables made a company :D ,ProgrammerHumour,6d30fv
+337,That's not an 'S',https://i.reddituploads.com/d659b1360bb0495084a37be3b93e10db?fit=max&h=1536&w=1536&s=9eec965c78982000b215a22937be7b8f,19,2017-05-24 05:44:09,0,,ProgrammerHumour,6cyn3t
+338,wot,http://imgur.com/a/C3TIa,22,2017-05-23 00:58:45,2,"^(Hi, I'm a bot for linking direct images of albums with only 1 image)
+
+https://i.imgur.com/4ytQ55W.jpg
+
+^[Source](https://github.com/AUTplayed/imguralbumbot) ^| ^[Why?](https://github.com/AUTplayed/imguralbumbot/blob/master/README.md) ^| ^[Creator](https://np.reddit.com/user/AUTplayed/) ^| ^[ignoreme](https://np.reddit.com/message/compose/?to=imguralbumbot&subject=ignoreme&message=ignoreme) ^| ^[deletthis](https://np.reddit.com/message/compose/?to=imguralbumbot&subject=delet%20this&message=delet%20this%20dhwd3lb) |I mean Python is easier to learn than JS. And they are both slow, interpreted and dynamically typed languages. ",ProgrammerHumour,6cpgct
+339,Trailing debug logs be like,https://twitter.com/swiftonsecurity/status/708495790365401088,5,2017-05-22 23:51:18,0,,ProgrammerHumour,6cp0tn
+340,Why programmers don't bother dating!,http://imgur.com/a/7o2sh,32,2017-05-22 02:46:30,1,"^(Hi, I'm a bot for linking direct images of albums with only 1 image)
+
+https://i.imgur.com/78RCJVd.jpg
+
+^[Source](https://github.com/AUTplayed/imguralbumbot) ^| ^[Why?](https://github.com/AUTplayed/imguralbumbot/blob/master/README.md) ^| ^[Creator](https://np.reddit.com/user/AUTplayed/) ^| ^[ignoreme](https://np.reddit.com/message/compose/?to=imguralbumbot&subject=ignoreme&message=ignoreme) ^| ^[deletthis](https://np.reddit.com/message/compose/?to=imguralbumbot&subject=delet%20this&message=delet%20this%20dhuztol) ",ProgrammerHumour,6cj1yo
+341,Tragedy of //,https://www.reddit.com/r/programmerhumour/comments/6cent2/tragedy_of/,22,2017-05-21 09:30:48,1,Nice ,ProgrammerHumour,6cent2
+342,"Imagine if I got a dollar every time my IF statement was evaluated. If the program was ran a billion times, what would I be?",https://www.reddit.com/r/programmerhumour/comments/6cdjcl/imagine_if_i_got_a_dollar_every_time_my_if/,33,2017-05-21 05:15:50,4,"To be fair, a penny every time would probably still make you rich.|Someone is gonna come along, read the lame joke and fork a new process on OP's mom thread|LOGIC|For(i=1;i==1;)
+{
+If(i==1){}
+} 
+
+I know syntax is bad. I'm typing on my phone. ",ProgrammerHumour,6cdjcl
+343,Best practices for a large team,https://imgflip.com/i/1pf4n5,26,2017-05-21 04:08:46,0,,ProgrammerHumour,6cd7hw
+344,Assigning a property to itself in Swift 3.1,https://i.redd.it/vw5vf7wq78yy.jpg,49,2017-05-18 14:48:29,0,,ProgrammerHumour,6bv2x1
+345,My school's still working out the kinks in their new web filter...,https://i.redd.it/fkqjeogif4yy.jpg,48,2017-05-18 02:04:55,5,That's what they get. So glad I'm graduating cuz I'm tired of our districts BS. These fools blocked Google because they got a deal with Microsoft.|I'm not sure I get it.,ProgrammerHumour,6bre7j
+346,How to count to four in binary,https://i.redd.it/7lcjiz1gs1yy.jpg,38,2017-05-17 17:12:02,2,"Lol one of my favourite so far!
+
+Are you female? My cs university program has 5 femaes out of 100. None of them were white either. Are you a math student then?|I did that to my sister the other day.",ProgrammerHumour,6bo4wj
+347,Ohhh no why is the reddit browser so good,https://i.redd.it/bvspqhqgtvxy.jpg,12,2017-05-16 21:07:03,1,/r/softwaregore,ProgrammerHumour,6bi72c
+348,The ESP8266 Datasheet clearly doesn't know me that well,https://i.redd.it/lkm850aqsexy.png,12,2017-05-14 12:01:23,0,,ProgrammerHumour,6b2li2
+349,Guess I won't be using *that*...,https://i.imgur.com/ceRJR1M.png,72,2017-05-13 18:48:44,6,"That's frowned upon?
+
+*shit*|Okay, this one actually made snort out loud",ProgrammerHumour,6axs1v
+350,Looks like one of my instances is unhealthy,https://i.redd.it/0zzp0lsdqaxy.jpg,25,2017-05-13 22:12:21,0,,ProgrammerHumour,6ays2v
+351,Using RAD and Websphere,https://www.reddit.com/r/programmerhumour/comments/6asrsi/using_rad_and_websphere/,1,2017-05-12 23:06:55,0,,ProgrammerHumour,6asrsi
+352,Learning django,https://i.redd.it/pxo5nf3awdwy.jpg,7,2017-05-09 07:46:39,1,"This has more to do with game of thrones than programming, other than the fact they're being shown in the Django admin...",ProgrammerHumour,6a2o4m
+353,"Some people say im an idiot,",https://www.reddit.com/r/programmerhumour/comments/6a05zb/some_people_say_im_an_idiot/,8,2017-05-09 00:33:35,0,,ProgrammerHumour,6a05zb
+354,Help it magicians!,https://www.reddit.com/r/programmerhumour/comments/69ytp2/help_it_magicians/,0,2017-05-08 21:05:39,2,"[deleted]|Yes your right of course! Not looking to stereoptype or imply cliches. The director just wants some inside scoop, trying to reach out to people in this profession so they can identify. ",ProgrammerHumour,69ytp2
+355,When your deadline is approaching and you don't have enough time to test the features,https://i.redd.it/i5u779fc4rvy.jpg,101,2017-05-06 03:10:54,4,That's how it's gonna be for us in 2 weeks |This is what it's going to be like for my company on the 1st.,ProgrammerHumour,69hjg3
+356,Got request from this person. I'm not sure if he is expert in SO the platform or art of overflowing stack... hmm...,https://i.redd.it/08u6zoxv1tvy.jpg,6,2017-05-06 09:40:38,2,"He put ""Microsoft Word"" in it, so probably the platform.",ProgrammerHumour,69jcv0
+357,Security Vulnerability,http://www.smbc-comics.com/comic/security-vulnerability,12,2017-05-03 05:12:51,0,,ProgrammerHumour,68wshb
+358,An OR gate,https://imgur.com/I1RG1bx.jpg,112,2017-05-01 16:51:35,4,That's actually super useful for multiple users with different keys! I may look into this for farm gates :3|Shamir's Secret Sharing with n=6 and k=1.|gate_unlocked= lock0 || lock1 || lock2 || lock3 || lock4 ||lock5 |i would have upvoted but the votes are at 1 << 6,ProgrammerHumour,68ldl3
+359,Git Tree,https://i.redd.it/p3hgtwkhtpuy.jpg,69,2017-04-30 21:44:05,1,6/7 ~~shitpost~~ funpost^TM,ProgrammerHumour,68g8o7
+360,[x-post] Windows firewall,https://i.redd.it/77eruftlc3uy.jpg,65,2017-04-27 23:10:03,1,This is how the UK government wants encryption 🤔,ProgrammerHumour,67x828
+361,Fact Donkey - send random texts to people,https://factdonkey.com/,5,2017-04-27 01:15:17,1,If I try to spend less than a dollar it actually makes me send them texts instead,ProgrammerHumour,67qjsc
+362,Just came across this old gem - Hitler uses git,https://www.youtube.com/watch?v=CDeG4S-mJts,18,2017-04-25 22:40:13,0,,ProgrammerHumour,67hxpn
+363,Letting your users know what's up,https://i.redd.it/ob3n6c5k65ty.jpg,32,2017-04-22 23:15:52,1,/r/softwaregore,ProgrammerHumour,66x9p5
+364,[oc]There's a stripper working in the marketing department,https://i.redd.it/g0fljwyv41ty.png,4,2017-04-22 09:40:05,0,,ProgrammerHumour,66u3tj
+365,My computer science teacher just gave us a python assignment involving modifying tuples,https://www.reddit.com/r/programmerhumour/comments/66rnpr/my_computer_science_teacher_just_gave_us_a_python/,10,2017-04-22 01:33:32,3,"This is computer science, you're supposed to do the impossible. A well deserved 1 for not finding a creative way around immutability. ",ProgrammerHumour,66rnpr
+366,What does this button do?,https://www.reddit.com/r/programmerhumour/comments/66rgpw/what_does_this_button_do/,0,2017-04-22 01:01:24,1,[deleted],ProgrammerHumour,66rgpw
+367,const bool flase = false; // spellchecker,https://www.reddit.com/r/programmerhumour/comments/66gls7/const_bool_flase_false_spellchecker/,31,2017-04-20 14:52:12,1,That actually is damn usefull,ProgrammerHumour,66gls7
+368,TurboTax survey covers all bases,http://i.imgur.com/8bVuFqQ.png,28,2017-04-20 11:17:06,0,,ProgrammerHumour,66fu2u
+369,"""Prod is down!"" ""I'll fix it."" ""Do you know what you're doing?""",http://i.imgur.com/wi7PbUs.jpg,43,2017-04-19 23:41:47,1,"Exactly, I just remember the whole context, Thanks god I'm not alone then ",ProgrammerHumour,66bz9p
+370,I've heard that you like secure passwords,https://streamable.com/b1dvf,26,2017-04-17 15:52:53,0,,ProgrammerHumour,65uqsf
+371,Batman curly brackets,https://i.redd.it/vcuoz4ze7xry.jpg,63,2017-04-16 19:22:13,7,You're such a Joker. |How?,ProgrammerHumour,65p6zc
+372,When you know Java but they tell you to write C++,https://i.redd.it/eb6bixt8usry.jpg,134,2017-04-16 04:41:18,1,I'm my college we have computer engineering and computer science majors. We start the first two years in separate classes and then merge at junior year. For whatever reason all the computer engineers (me) got taught c++ and all comp sci people got taught Java. The funniest thing was seeing all comp sci majors try to wrap their heads around pass by value vs pass by reference and pointers. ,ProgrammerHumour,65m1xv
+373,I hate Lord of the Rings,https://www.youtube.com/watch?v=i9oU7rfb-do&t=30s,18,2017-04-14 03:49:17,3,"beautiful |Genius!
+This needs more upvotes.|This is great!",ProgrammerHumour,658qee
+374,I guess I will wait for {fitment_date},https://i.redd.it/rh9cpj19d2ry.jpg,12,2017-04-12 11:39:45,0,,ProgrammerHumour,64wgbt
+375,Much better with just one partition (from the girl with two vaginal holes AMA),http://i.imgur.com/Ey890qe.png,35,2017-04-05 13:01:16,1,Source: https://www.reddit.com/r/IAmA/comments/631elk/i_am_the_girl_with_two_vaginal_holes_ama/dfqt6cu/,ProgrammerHumour,63k40h
+376,/r/Funny_programs,https://i.redd.it/u26kmi7hdkpy.jpg,48,2017-04-04 22:04:46,2,"To aid mobile users, I'll link small subreddits not yet linked in the comments
+
+/r/Funny_programs: As a programmer sometimes think of really stupid programs to write.
+Like a program that says dicks out for harambe every 10 minutes.
+Come post you're programs or ideas so others can make.
+
+---
+^I ^am ^a ^bot ^| [^Mail ^BotOwner](http://reddit.com/message/compose/?to=DarkMio&subject=SmallSubBot%20Report) ^| ^To ^aid ^mobile ^users, ^I'll ^link ^small ^subreddits ^not ^yet ^linked ^in ^the ^comments ^| ^[Code](https://github.com/DarkMio/Massdrop-Reddit-Bot) ^| [^Ban](https://www.reddit.com/message/compose/?to=SmallSubBot&subject=SmallSubBot%20Report&message=ban%20/r/Subreddit) ^- [^Help](https://www.reddit.com/r/MassdropBot/wiki/index#wiki_banning_a_bot)|Feel like perl5 is the JavaScript one too",ProgrammerHumour,63f838
+377,Ha. /r/funny_programs,https://i.redd.it/x435qwt7qjpy.jpg,47,2017-04-04 19:54:23,1,"To aid mobile users, I'll link small subreddits not yet linked in the comments
+
+/r/funny_programs: As a programmer sometimes think of really stupid programs to write.
+Like a program that says dicks out for harambe every 10 minutes.
+Come post you're programs or ideas so others can make.
+
+---
+^I ^am ^a ^bot ^| [^Mail ^BotOwner](http://reddit.com/message/compose/?to=DarkMio&subject=SmallSubBot%20Report) ^| ^To ^aid ^mobile ^users, ^I'll ^link ^small ^subreddits ^not ^yet ^linked ^in ^the ^comments ^| ^[Code](https://github.com/DarkMio/Massdrop-Reddit-Bot) ^| [^Ban](https://www.reddit.com/message/compose/?to=SmallSubBot&subject=SmallSubBot%20Report&message=ban%20/r/Subreddit) ^- [^Help](https://www.reddit.com/r/MassdropBot/wiki/index#wiki_banning_a_bot)",ProgrammerHumour,63eei9
+378,Questions??,https://i.redd.it/ydby7778igpy.jpg,31,2017-04-04 09:04:30,1,"Ah, the 'ol I-am-a-bad-person-until-I-drink-coffee bit. Classic. ",ProgrammerHumour,63bryo
+379,How to code,https://i.redd.it/tictexx0z7py.jpg,102,2017-04-03 04:25:32,10,this the first time i see a long list of this meme|Does this imply that the first formatting method is better than the second? I wonder if there's an industry standard. ,ProgrammerHumour,632vrk
+380,I..I don't get it,https://i.redd.it/nqbq7pcsyxoy.jpg,22,2017-04-01 18:43:26,3,"I think it's a variation of the dead baby joke ""why did the dead baby cross the road? He was stapled to the chicken"". It's an anti-joke because it's meant to be fucked up but it doesn't translate well to this |Me neither lol|So changelogs are now for jokes instead of changes? Very weird",ProgrammerHumour,62smnq
+381,The first time you execute your code and it has no errors.,https://i.redd.it/u96qf2drbsoy.gif,68,2017-03-31 23:47:30,1,"After that I normally spend 10 minutes looking for subtle errors and finding that everything works correctly, only to realise I'm executing in the wrong environment.",ProgrammerHumour,62mz5f
+382,Thursday. Code girl.,https://i.redd.it/s6jypvmk0koy.jpg,0,2017-03-30 19:49:43,8,"What is this meant to be? |We get it, you code.|Wow, funny.|>Programming in a non-UNIX environment |The punchline is that the person thinks a girl coding deserves attention or is in some way a joke, the joke is herself.|Where is the punchline |Where's the whitespace to make it more readable..",ProgrammerHumour,62e823
+383,What happens when I delete a class or method at my company and check in the code to the build server,https://m.imgur.com/uKEYqRP?r,9,2017-03-27 23:50:17,1,"[GIFV link](https://i.imgur.com/uKEYqRP.gifv)
+
+---
+
+_^I ^am ^a ^bot. ^[FAQ](https://www.reddit.com/r/livven/wiki/gifv-bot) ^// ^[code](https://github.com/Livven/GifvBot)_",ProgrammerHumour,61tx6v
+384,It's 15 o'clock if you know what i mean,https://i.redd.it/g0ck5ryh3xny.jpg,18,2017-03-27 14:43:44,1,Id say its 3:03 but thats just me,ProgrammerHumour,61r3ya
+385,Better luck next TIME,https://twitter.com/time/status/846045356093849600,11,2017-03-27 00:07:50,1,That's awesome ,ProgrammerHumour,61n4gw
+386,Meanwhile at Linus Torvald's house...,https://dzone.com/articles/linus-torvalds-house-comic?edition=286910,12,2017-03-24 22:31:25,5,"Sorry, but I don't get it. Can someone explain the joke?|LOL",ProgrammerHumour,61a5cc
+387,Stackoverflow isn't all that uptight,http://imgur.com/a/ZZ6qF,52,2017-03-22 21:30:55,0,,ProgrammerHumour,60vhk7
+388,The ugly duck,http://www.smbc-comics.com/comic/2010-05-23,11,2017-03-18 17:39:33,0,,ProgrammerHumour,603snu
+389,Say what you want but this is one of the ugliest ways to format code I've ever seen,https://www.reddit.com/r/programmerhumour/comments/5zf5hz/say_what_you_want_but_this_is_one_of_the_ugliest/,12,2017-03-15 03:11:34,2,me_irl when I read my classmates code...|Perhaps he/she did that on purpose to invoke a discussion on code formatting?,ProgrammerHumour,5zf5hz
+390,404: Page not found,http://m.imgur.com/xT3NaWm,42,2017-03-13 20:58:58,1,Fucking *classic*,ProgrammerHumour,5z5ly2
+391,Someone was configuring fast lane for CI,http://imgur.com/zkSKvBC,6,2017-02-15 10:01:26,0,,ProgrammerHumour,5u5dkj
+392,/stop,http://i.imgur.com/Pn22khO.jpg,37,2017-01-23 10:02:21,0,,ProgrammerHumour,5pmak3
+393,I might want to go to sleep...,https://i.reddituploads.com/6980036f9fce46559ce9f548e02e5f48?fit=max&h=1536&w=1536&s=813fe1080122bffc93c95eb81d78b977,26,2016-12-10 04:48:06,1,"I see people write ""if (bool==true) {return true } else {return false}"" far too often. Gives me nightmares",ProgrammerHumour,5hh1cm
+394,"Not really programming, but thought it fitted here:",https://www.reddit.com/r/programmerhumour/comments/5bwqcq/not_really_programming_but_thought_it_fitted_here/,17,2016-11-09 04:47:55,1,What do you mean not designed to the correct specifications? It has an overflow factor of 1,ProgrammerHumour,5bwqcq
+395,The office was all out of spaghetti...,https://www.reddit.com/r/programmerhumour/comments/53snhq/the_office_was_all_out_of_spaghetti/,6,2016-09-21 16:50:02,0,,ProgrammerHumour,53snhq
+396,Why do JavaScript programmers wear glasses?,https://www.reddit.com/r/programmerhumour/comments/4ku7ak/why_do_javascript_programmers_wear_glasses/,17,2016-05-24 20:34:00,2,Did you know if you hold a /bin/sh up to your ear you can hear the C?,ProgrammerHumour,4ku7ak
+397,Network Ninja,https://www.reddit.com/r/programmerhumour/comments/46demz/network_ninja/,3,2016-02-18 11:47:02,0,,ProgrammerHumour,46demz
+398,Programmers Coffee Time,https://image-store.slidesharecdn.com/6df75f74-039d-4bb2-b362-dd89488a08c3-medium.jpeg,3,2015-12-29 15:34:23,0,,ProgrammerHumour,3yn3b9
+399,Dear Rich Bastard,http://www.snopes.com/business/consumer/bastard.asp,5,2015-11-10 07:57:01,0,,ProgrammerHumour,3s7wzp
+400,Hahaha,https://www.reddit.com/r/programmerhumour/comments/3mr4c4/hahaha/,1,2015-09-29 03:08:05,0,,ProgrammerHumour,3mr4c4
+401,Looking for bloody yanks?,https://www.reddit.com/r/programmerhumour/comments/33t3hh/looking_for_bloody_yanks/,14,2015-04-25 15:57:47,0,,ProgrammerHumour,33t3hh
+402,Thanks!,https://www.reddit.com/r/programmerhumour/comments/31jbmq/thanks/,6,2015-04-05 22:53:48,0,,ProgrammerHumour,31jbmq
+403,Bloody Yanks...,http://www.reddit.com/r/ProgrammerHumor,19,2012-12-13 23:16:55,0,,ProgrammerHumour,14sm0m

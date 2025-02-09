@@ -1,0 +1,13 @@
+Pillow
+opencv-python
+lightgbm
+matplotlib
+numpy
+pandas
+praw
+requests
+seaborn
+scikit-learn
+textblob
+webcolors
+shap
